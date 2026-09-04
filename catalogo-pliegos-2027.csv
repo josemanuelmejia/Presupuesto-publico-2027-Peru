@@ -1,15 +1,15 @@
 ﻿departamento;codigo_pliego;pliego;nivel_gobierno;provincia;distrito;anexos;n_asignaciones;monto_asignado_soles;concepto_del_monto;referencia_paginas_pdf
 Moquegua;455;GOBIERNO REGIONAL DEL DEPARTAMENTO DE MOQUEGUA;Gobierno regional;;;6, 8;348;768940447;Presupuesto institucional total del pliego;"ANEXO-6-2:54-69; ANEXO-8-1:6,27,37,52,56,180,190,198,237,259,266,306; ANEXO-8-2:118,174,216,280,284,286,288,304"
-Moquegua;003;M. DE CULTURA;Gobierno nacional;;;5;1;81069;Partidas localizadas en Moquegua;ANEXO-5-1:33
-Moquegua;005;M. DEL AMBIENTE;Gobierno nacional;;;5;1;6078472;Partidas localizadas en Moquegua;ANEXO-5-1:44
-Moquegua;010;M. DE EDUCACION;Gobierno nacional;;;5;4;15297423;Partidas localizadas en Moquegua;ANEXO-5-1:97,102,105
-Moquegua;013;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;7;5741423;Partidas localizadas en Moquegua;ANEXO-5-3:6-7,9,11,13,16
-Moquegua;016;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;1;1180000;Partidas localizadas en Moquegua;ANEXO-5-3:31
-Moquegua;026;M. DE DEFENSA;Gobierno nacional;;;5;1;2203718;Partidas localizadas en Moquegua;ANEXO-5-3:54
-Moquegua;029;AUTORIDAD NACIONAL DE INFRAESTRUCTURA;Gobierno nacional;;;5;2;4701000;Partidas localizadas en Moquegua;ANEXO-5-1:21,23
-Moquegua;035;MINISTERIO DE COMERCIO EXTERIOR Y TURISMO;Gobierno nacional;;;5;1;655365;Partidas localizadas en Moquegua;ANEXO-5-3:68
-Moquegua;036;MINISTERIO DE TRANSPORTES Y COMUNICACIONES;Gobierno nacional;;;5;8;121486634;Partidas localizadas en Moquegua;ANEXO-5-3:74-76,78,80-81
-Moquegua;037;MINISTERIO DE VIVIENDA, CONSTRUCCION Y SANEAMIENTO;Gobierno nacional;;;5;3;420006;Partidas localizadas en Moquegua;ANEXO-5-3:103,105,107
+Moquegua;3;M. DE CULTURA;Gobierno nacional;;;5;1;81069;Partidas localizadas en Moquegua;ANEXO-5-1:33
+Moquegua;5;M. DEL AMBIENTE;Gobierno nacional;;;5;1;6078472;Partidas localizadas en Moquegua;ANEXO-5-1:44
+Moquegua;10;M. DE EDUCACION;Gobierno nacional;;;5;4;15297423;Partidas localizadas en Moquegua;ANEXO-5-1:97,102,105
+Moquegua;13;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;7;5741423;Partidas localizadas en Moquegua;ANEXO-5-3:6-7,9,11,13,16
+Moquegua;16;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;1;1180000;Partidas localizadas en Moquegua;ANEXO-5-3:31
+Moquegua;26;M. DE DEFENSA;Gobierno nacional;;;5;1;2203718;Partidas localizadas en Moquegua;ANEXO-5-3:54
+Moquegua;29;AUTORIDAD NACIONAL DE INFRAESTRUCTURA;Gobierno nacional;;;5;2;4701000;Partidas localizadas en Moquegua;ANEXO-5-1:21,23
+Moquegua;35;MINISTERIO DE COMERCIO EXTERIOR Y TURISMO;Gobierno nacional;;;5;1;655365;Partidas localizadas en Moquegua;ANEXO-5-3:68
+Moquegua;36;MINISTERIO DE TRANSPORTES Y COMUNICACIONES;Gobierno nacional;;;5;8;121486634;Partidas localizadas en Moquegua;ANEXO-5-3:74-76,78,80-81
+Moquegua;37;MINISTERIO DE VIVIENDA, CONSTRUCCION Y SANEAMIENTO;Gobierno nacional;;;5;3;420006;Partidas localizadas en Moquegua;ANEXO-5-3:103,105,107
 Moquegua;241;INSTITUTO TECNOLOGICO DE LA PRODUCCION - ITP;Gobierno nacional;;;5;2;799047;Partidas localizadas en Moquegua;ANEXO-5-3:130
 Moquegua;511;U.N. DE SAN ANTONIO ABAD DEL CUSCO;Gobierno nacional;;;5;1;17861041;Partidas localizadas en Moquegua;ANEXO-5-1:115
 Moquegua;516;U.N. SAN CRISTOBAL DE HUAMANGA;Gobierno nacional;;;5;1;2050000;Partidas localizadas en Moquegua;ANEXO-5-1:128
@@ -36,17 +36,17 @@ Moquegua;180301;MUNICIPALIDAD PROVINCIAL DE ILO;Gobierno local;Ilo;Ilo;7, 8;14;1
 Moquegua;180302;MUNICIPALIDAD DISTRITAL DE EL ALGARROBAL;Gobierno local;Ilo;El Algarrobal;7, 8;8;78613123;Presupuesto institucional total del pliego;"ANEXO-7-2-2:171; ANEXO-8-1:22,107,168,248; ANEXO-8-2:29,159,273,313"
 Moquegua;180303;MUNICIPALIDAD DISTRITAL DE PACOCHA;Gobierno local;Ilo;Pacocha;7, 8;8;12215995;Presupuesto institucional total del pliego;"ANEXO-7-2-2:171-172; ANEXO-8-1:22,107,168; ANEXO-8-2:29,274,313"
 Puno;458;GOBIERNO REGIONAL DEL DEPARTAMENTO DE PUNO;Gobierno regional;;;6, 8;570;3398770623;Presupuesto institucional total del pliego;"ANEXO-6-2:108-134; ANEXO-8-1:6,27,37,52,56,63,237,267,306; ANEXO-8-2:118,171,216,229,232,234,263,280,284,286,289,301,304"
-Puno;004;PODER JUDICIAL;Gobierno nacional;;;5;1;327276;Partidas localizadas en Puno;ANEXO-5-1:40
-Puno;005;M. DEL AMBIENTE;Gobierno nacional;;;5;3;6487721;Partidas localizadas en Puno;ANEXO-5-1:44
-Puno;006;M. DE JUSTICIA Y DERECHOS HUMANOS;Gobierno nacional;;;5;1;100000;Partidas localizadas en Puno;ANEXO-5-1:58
-Puno;010;M. DE EDUCACION;Gobierno nacional;;;5;3;37703021;Partidas localizadas en Puno;ANEXO-5-1:100,102,105
-Puno;011;M. DE SALUD;Gobierno nacional;;;5;2;45000000;Partidas localizadas en Puno;ANEXO-5-2:117
-Puno;013;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;3;14717053;Partidas localizadas en Puno;ANEXO-5-3:6,8
-Puno;016;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;9;22468798;Partidas localizadas en Puno;ANEXO-5-3:31-34
-Puno;035;MINISTERIO DE COMERCIO EXTERIOR Y TURISMO;Gobierno nacional;;;5;1;7315111;Partidas localizadas en Puno;ANEXO-5-3:68
-Puno;036;MINISTERIO DE TRANSPORTES Y COMUNICACIONES;Gobierno nacional;;;5;4;117636094;Partidas localizadas en Puno;ANEXO-5-3:75-76,78
-Puno;037;MINISTERIO DE VIVIENDA, CONSTRUCCION Y SANEAMIENTO;Gobierno nacional;;;5;16;311166086;Partidas localizadas en Puno;ANEXO-5-3:91,93-95,104-107,110,112
-Puno;040;MINISTERIO DE DESARROLLO E INCLUSION SOCIAL;Gobierno nacional;;;5;1;1811768;Partidas localizadas en Puno;ANEXO-5-3:141
+Puno;4;PODER JUDICIAL;Gobierno nacional;;;5;1;327276;Partidas localizadas en Puno;ANEXO-5-1:40
+Puno;5;M. DEL AMBIENTE;Gobierno nacional;;;5;3;6487721;Partidas localizadas en Puno;ANEXO-5-1:44
+Puno;6;M. DE JUSTICIA Y DERECHOS HUMANOS;Gobierno nacional;;;5;1;100000;Partidas localizadas en Puno;ANEXO-5-1:58
+Puno;10;M. DE EDUCACION;Gobierno nacional;;;5;3;37703021;Partidas localizadas en Puno;ANEXO-5-1:100,102,105
+Puno;11;M. DE SALUD;Gobierno nacional;;;5;2;45000000;Partidas localizadas en Puno;ANEXO-5-2:117
+Puno;13;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;3;14717053;Partidas localizadas en Puno;ANEXO-5-3:6,8
+Puno;16;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;9;22468798;Partidas localizadas en Puno;ANEXO-5-3:31-34
+Puno;35;MINISTERIO DE COMERCIO EXTERIOR Y TURISMO;Gobierno nacional;;;5;1;7315111;Partidas localizadas en Puno;ANEXO-5-3:68
+Puno;36;MINISTERIO DE TRANSPORTES Y COMUNICACIONES;Gobierno nacional;;;5;4;117636094;Partidas localizadas en Puno;ANEXO-5-3:75-76,78
+Puno;37;MINISTERIO DE VIVIENDA, CONSTRUCCION Y SANEAMIENTO;Gobierno nacional;;;5;16;311166086;Partidas localizadas en Puno;ANEXO-5-3:91,93-95,104-107,110,112
+Puno;40;MINISTERIO DE DESARROLLO E INCLUSION SOCIAL;Gobierno nacional;;;5;1;1811768;Partidas localizadas en Puno;ANEXO-5-3:141
 Puno;520;U.N. DEL ALTIPLANO;Gobierno nacional;;;5;43;286166858;Presupuesto institucional total del pliego;ANEXO-5-1:136-137
 Puno;552;U.N. DE JULIACA;Gobierno nacional;;;5;28;49055887;Presupuesto institucional total del pliego;ANEXO-5-2:67-68
 Puno;210101;MUNICIPALIDAD PROVINCIAL DE PUNO;Gobierno local;;Puno;7, 8;17;123793876;Presupuesto institucional total del pliego;"ANEXO-7-2-2:200; ANEXO-8-1:23,34,110,200; ANEXO-8-2:32,161,225,274,314"
@@ -159,16 +159,16 @@ Puno;211305;MUNICIPALIDAD DISTRITAL DE OLLARAYA;Gobierno local;;Ollaraya;7;7;244
 Puno;211306;MUNICIPALIDAD DISTRITAL DE TINICACHI;Gobierno local;;Tinicachi;7;6;1324965;Presupuesto institucional total del pliego;ANEXO-7-2-2:231
 Puno;211307;MUNICIPALIDAD DISTRITAL DE UNICACHI;Gobierno local;;Unicachi;7;6;1575204;Presupuesto institucional total del pliego;ANEXO-7-2-2:231
 Tacna;460;Gobierno Regional del Departamento de Tacna;Gobierno regional;;;6, 8;353;986582046;Presupuesto institucional total del pliego;"ANEXO-6-2:154-170; ANEXO-8-1:6,27,37,52,56,237,267,269,306; ANEXO-8-2:59,118,216,263,280,284,286,289,304"
-Tacna;005;M. DEL AMBIENTE;Gobierno nacional;;;5;3;29080216;Partidas localizadas en Tacna;ANEXO-5-1-3:44
-Tacna;007;M. DEL INTERIOR;Gobierno nacional;;;A;1;4000;Partidas localizadas en Tacna;ANEXO-A-B-C:3
-Tacna;010;M. DE EDUCACION;Gobierno nacional;;;5;1;7514296;Partidas localizadas en Tacna;ANEXO-5-1-3:97
-Tacna;011;M. DE SALUD;Gobierno nacional;;;5;2;203505;Partidas localizadas en Tacna;ANEXO-5-2-3:121-122
-Tacna;013;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;1;883542;Partidas localizadas en Tacna;ANEXO-5-3-3:12
-Tacna;016;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;2;5026360;Partidas localizadas en Tacna;ANEXO-5-3-3:30,35
-Tacna;022;MINISTERIO PUBLICO;Gobierno nacional;;;5;1;16672438;Partidas localizadas en Tacna;ANEXO-5-3-3:46
-Tacna;036;MINISTERIO DE TRANSPORTES Y COMUNICACIONES;Gobierno nacional;;;5;6;128835265;Partidas localizadas en Tacna;ANEXO-5-3-3:74,76,80-81
-Tacna;037;MINISTERIO DE VIVIENDA, CONSTRUCCION Y SANEAMIENTO;Gobierno nacional;;;5;2;1197662;Partidas localizadas en Tacna;ANEXO-5-3-3:92,112
-Tacna;067;SUPERINTENDENCIA NACIONAL DE LOS REGISTROS PUBLICOS;Gobierno nacional;;;5;1;404750;Partidas localizadas en Tacna;ANEXO-5-1-3:63
+Tacna;5;M. DEL AMBIENTE;Gobierno nacional;;;5;3;29080216;Partidas localizadas en Tacna;ANEXO-5-1-3:44
+Tacna;7;M. DEL INTERIOR;Gobierno nacional;;;A;1;4000;Partidas localizadas en Tacna;ANEXO-A-B-C:3
+Tacna;10;M. DE EDUCACION;Gobierno nacional;;;5;1;7514296;Partidas localizadas en Tacna;ANEXO-5-1-3:97
+Tacna;11;M. DE SALUD;Gobierno nacional;;;5;2;203505;Partidas localizadas en Tacna;ANEXO-5-2-3:121-122
+Tacna;13;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;1;883542;Partidas localizadas en Tacna;ANEXO-5-3-3:12
+Tacna;16;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;2;5026360;Partidas localizadas en Tacna;ANEXO-5-3-3:30,35
+Tacna;22;MINISTERIO PUBLICO;Gobierno nacional;;;5;1;16672438;Partidas localizadas en Tacna;ANEXO-5-3-3:46
+Tacna;36;MINISTERIO DE TRANSPORTES Y COMUNICACIONES;Gobierno nacional;;;5;6;128835265;Partidas localizadas en Tacna;ANEXO-5-3-3:74,76,80-81
+Tacna;37;MINISTERIO DE VIVIENDA, CONSTRUCCION Y SANEAMIENTO;Gobierno nacional;;;5;2;1197662;Partidas localizadas en Tacna;ANEXO-5-3-3:92,112
+Tacna;67;SUPERINTENDENCIA NACIONAL DE LOS REGISTROS PUBLICOS;Gobierno nacional;;;5;1;404750;Partidas localizadas en Tacna;ANEXO-5-1-3:63
 Tacna;163;INSTITUTO NACIONAL DE INNOVACION AGRARIA;Gobierno nacional;;;5;1;18000000;Partidas localizadas en Tacna;ANEXO-5-3-3:23
 Tacna;243;AUTORIDAD NACIONAL DE SANIDAD E INOCUIDAD EN PESCA Y ACUICULTURA - SANIPES;Gobierno nacional;;;5;1;4709423;Partidas localizadas en Tacna;ANEXO-5-3-3:132
 Tacna;531;U.N. Jorge Basadre Grohmann;Gobierno nacional;;;5;56;176845803;Presupuesto institucional total del pliego;ANEXO-5-2-3:20-22
