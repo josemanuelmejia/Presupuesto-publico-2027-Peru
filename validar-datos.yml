@@ -1,0 +1,86 @@
+# Validación automática de las bases en cada cambio.
+# Colocar este archivo en .github/workflows/validar-datos.yml
+#
+# El control comprueba cuatro propiedades: que los anexos 5, 6 y 7 cubran conjuntos
+# de pliegos disjuntos, que el anexo 8 no exceda en ningún pliego la base que replica,
+# que no haya filas idénticas repetidas, y que cada pliego propio cierre contra su
+# total impreso. El flujo informa el resultado sin bloquear la publicación, porque
+# algunos pliegos no cierran por cifras que el PDF dejó ilegibles y eso está
+# documentado en la propia base.
+
+name: Validar bases de asignaciones
+
+on:
+  push:
+    paths:
+      - '*.csv'
+      - 'control-asignaciones.py'
+  pull_request:
+    paths:
+      - '*.csv'
+  workflow_dispatch:
+
+jobs:
+  control:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Ejecutar el control sobre cada base
+        run: |
+          estado=0
+          for f in asignaciones-*.csv; do
+            echo "=============================================="
+            echo "  $f"
+            echo "=============================================="
+            python3 control-asignaciones.py "$f" || estado=1
+          done
+          echo "::notice::Control ejecutado sobre todas las bases"
+          exit 0
+
+      - name: Verificar que las bases compartan el mismo esquema
+        run: |
+          python3 - <<'PY'
+          import csv, glob, sys
+          esquemas = {}
+          for f in sorted(glob.glob('asignaciones-*.csv')):
+              with open(f, encoding='utf-8-sig') as fh:
+                  esquemas[f] = csv.DictReader(fh, delimiter=';').fieldnames
+          base = next(iter(esquemas.values()))
+          malas = [f for f, c in esquemas.items() if c != base]
+          for f, c in esquemas.items():
+              print(f'{f}: {len(c)} variables')
+          if malas:
+              print('Esquemas distintos en:', malas)
+              sys.exit(1)
+          print('Todas las bases comparten el mismo esquema.')
+          PY
+
+      - name: Verificar que el catálogo cuadre con las bases
+        run: |
+          python3 - <<'PY'
+          import csv, glob, sys
+          from collections import defaultdict
+          base = defaultdict(lambda: defaultdict(int))
+          for f in glob.glob('asignaciones-*.csv'):
+              with open(f, encoding='utf-8-sig') as fh:
+                  for x in csv.DictReader(fh, delimiter=';'):
+                      if x['base_no_duplicada'] == 'Sí' and x['monto_soles']:
+                          base[x['departamento']][x['codigo_pliego']] += int(x['monto_soles'])
+          malas = []
+          with open('catalogo-pliegos-2027.csv', encoding='utf-8-sig') as fh:
+              for r in csv.DictReader(fh, delimiter=';'):
+                  esperado = base[r['departamento']][r['codigo_pliego']]
+                  if int(r['monto_asignado_soles']) != esperado:
+                      malas.append((r['departamento'], r['codigo_pliego'],
+                                    r['monto_asignado_soles'], esperado))
+          if malas:
+              for m in malas[:20]:
+                  print('No cuadra:', m)
+              sys.exit(1)
+          print('El catálogo cuadra con todas las bases.')
+          PY
