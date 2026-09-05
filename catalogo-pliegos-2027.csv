@@ -3,9 +3,9 @@ Arequipa;443;GOBIERNO REGIONAL DEL DEPARTAMENTO DE AREQUIPA;Gobierno regional;;;
 Arequipa;003;M. DE CULTURA;Gobierno nacional;;;5;1;304000;Partidas localizadas en Arequipa;ANEXO-5-1:32
 Arequipa;005;M. DEL AMBIENTE;Gobierno nacional;;;5;3;31138743;Partidas localizadas en Arequipa;ANEXO-5-1:44
 Arequipa;006;M. DE JUSTICIA Y DERECHOS HUMANOS;Gobierno nacional;;;5;2;59261654;Partidas localizadas en Arequipa;"ANEXO-5-1:58; ANEXO-5-3:49"
-Arequipa;007;M. DEL INTERIOR;Gobierno nacional;;;5;1;47646412;Partidas localizadas en Arequipa;ANEXO-5-1:72
+Arequipa;007;M. DEL INTERIOR;Gobierno nacional;;;5, A;1;47646412;Partidas localizadas en Arequipa;"ANEXO-5-1:72; ANEXO-A-B-C:3"
 Arequipa;010;M. DE EDUCACION;Gobierno nacional;;;5;3;1546744;Partidas localizadas en Arequipa;ANEXO-5-1:100-101
-Arequipa;011;M. DE SALUD;Gobierno nacional;;;5;3;30221200;Partidas localizadas en Arequipa;ANEXO-5-2:117,119
+Arequipa;011;M. DE SALUD;Gobierno nacional;;;5, A;3;30221200;Partidas localizadas en Arequipa;"ANEXO-5-2:117,119; ANEXO-A-B-C:5"
 Arequipa;013;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;11;20691460;Partidas localizadas en Arequipa;ANEXO-5-3:6-9,11-12,14
 Arequipa;016;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;1;3260000;Partidas localizadas en Arequipa;ANEXO-5-3:34
 Arequipa;022;MINISTERIO PUBLICO;Gobierno nacional;;;5;3;58380368;Partidas localizadas en Arequipa;ANEXO-5-3:46
@@ -299,6 +299,7 @@ Puno;211306;MUNICIPALIDAD DISTRITAL DE TINICACHI;Gobierno local;;Tinicachi;7, 8;
 Puno;211307;MUNICIPALIDAD DISTRITAL DE UNICACHI;Gobierno local;;Unicachi;7, 8;6;1575204;Presupuesto institucional total del pliego;"ANEXO-7-2-2:231; ANEXO-8-1:113,174; ANEXO-8-2:35,164,277"
 Tacna;460;GOBIERNO REGIONAL DEL DEPARTAMENTO DE TACNA;Gobierno regional;;;6, 8;358;986582046;Presupuesto institucional total del pliego;"ANEXO-6-2:154-170; ANEXO-8-1:6,27,37,52,56,237,267,269,306; ANEXO-8-2:59,118,216,263,280,284,286,289,304"
 Tacna;005;M. DEL AMBIENTE;Gobierno nacional;;;5;3;29080216;Partidas localizadas en Tacna;ANEXO-5-1:44
+Tacna;007;M. DEL INTERIOR;Gobierno nacional;;;A;1;4000;Partidas localizadas en Tacna;ANEXO-A-B-C:3
 Tacna;010;M. DE EDUCACION;Gobierno nacional;;;5;2;7561406;Partidas localizadas en Tacna;ANEXO-5-1:97,105
 Tacna;011;M. DE SALUD;Gobierno nacional;;;5;2;203505;Partidas localizadas en Tacna;ANEXO-5-2:121-122
 Tacna;013;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;1;883542;Partidas localizadas en Tacna;ANEXO-5-3:12
