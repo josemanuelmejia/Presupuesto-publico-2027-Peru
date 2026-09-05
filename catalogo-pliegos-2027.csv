@@ -1,52 +1,190 @@
 ﻿departamento;codigo_pliego;pliego;nivel_gobierno;provincia;distrito;anexos;n_asignaciones;monto_asignado_soles;concepto_del_monto;referencia_paginas_pdf
+Arequipa;443;GOBIERNO REGIONAL DEL DEPARTAMENTO DE AREQUIPA;Gobierno regional;;;6, 8;435;3096683402;Presupuesto institucional total del pliego;"ANEXO-6-1:57-77; ANEXO-8-1:6,26,36,51,56,180,190,198,237,259,266,305; ANEXO-8-2:59,118,215,229,231,234,279,284,286,288,301,304"
+Arequipa;003;M. DE CULTURA;Gobierno nacional;;;5;1;304000;Partidas localizadas en Arequipa;ANEXO-5-1:32
+Arequipa;005;M. DEL AMBIENTE;Gobierno nacional;;;5;3;31138743;Partidas localizadas en Arequipa;ANEXO-5-1:44
+Arequipa;006;M. DE JUSTICIA Y DERECHOS HUMANOS;Gobierno nacional;;;5;2;59261654;Partidas localizadas en Arequipa;"ANEXO-5-1:58; ANEXO-5-3:49"
+Arequipa;007;M. DEL INTERIOR;Gobierno nacional;;;5;1;47646412;Partidas localizadas en Arequipa;ANEXO-5-1:72
+Arequipa;010;M. DE EDUCACION;Gobierno nacional;;;5;3;1546744;Partidas localizadas en Arequipa;ANEXO-5-1:100-101
+Arequipa;011;M. DE SALUD;Gobierno nacional;;;5;3;30221200;Partidas localizadas en Arequipa;ANEXO-5-2:117,119
+Arequipa;013;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;11;20691460;Partidas localizadas en Arequipa;ANEXO-5-3:6-9,11-12,14
+Arequipa;016;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;1;3260000;Partidas localizadas en Arequipa;ANEXO-5-3:34
+Arequipa;022;MINISTERIO PUBLICO;Gobierno nacional;;;5;3;58380368;Partidas localizadas en Arequipa;ANEXO-5-3:46
+Arequipa;026;M. DE DEFENSA;Gobierno nacional;;;5;3;920531669;Partidas localizadas en Arequipa;ANEXO-5-3:54-55
+Arequipa;029;AUTORIDAD NACIONAL DE INFRAESTRUCTURA;Gobierno nacional;;;5;1;300000000;Partidas localizadas en Arequipa;ANEXO-5-1:25
+Arequipa;035;MINISTERIO DE COMERCIO EXTERIOR Y TURISMO;Gobierno nacional;;;5;4;11252596;Partidas localizadas en Arequipa;ANEXO-5-3:67-69
+Arequipa;036;MINISTERIO DE TRANSPORTES Y COMUNICACIONES;Gobierno nacional;;;5;6;62155338;Partidas localizadas en Arequipa;ANEXO-5-3:74,77-79,81-82
+Arequipa;037;MINISTERIO DE VIVIENDA, CONSTRUCCION Y SANEAMIENTO;Gobierno nacional;;;5;3;15768361;Partidas localizadas en Arequipa;ANEXO-5-3:112
+Arequipa;059;FONDO NACIONAL DE DESARROLLO PESQUERO - FONDEPES;Gobierno nacional;;;5;2;12527799;Partidas localizadas en Arequipa;ANEXO-5-3:127
+Arequipa;067;SUPERINTENDENCIA NACIONAL DE LOS REGISTROS PUBLICOS;Gobierno nacional;;;5;1;5536;Partidas localizadas en Arequipa;ANEXO-5-1:63
+Arequipa;073;SUPERINTENDENCIA NACIONAL DE MIGRACIONES;Gobierno nacional;;;5;1;3823910;Partidas localizadas en Arequipa;ANEXO-5-1:76
+Arequipa;163;INSTITUTO NACIONAL DE INNOVACION AGRARIA;Gobierno nacional;;;5;2;22905662;Partidas localizadas en Arequipa;ANEXO-5-3:23
+Arequipa;165;SERVICIO NACIONAL FORESTAL Y DE FAUNA SILVESTRE - SERFOR;Gobierno nacional;;;5;1;1130617;Partidas localizadas en Arequipa;ANEXO-5-3:28
+Arequipa;241;INSTITUTO TECNOLOGICO DE LA PRODUCCION - ITP;Gobierno nacional;;;5;3;8615691;Partidas localizadas en Arequipa;ANEXO-5-3:130
+Arequipa;513;U.N. DE SAN AGUSTIN;Gobierno nacional;;;5;52;452435006;Presupuesto institucional total del pliego;ANEXO-5-1:120-122
+Arequipa;040101;MUNICIPALIDAD PROVINCIAL DE AREQUIPA;Gobierno local;;Arequipa;7, 8;15;291805948;Presupuesto institucional total del pliego;"ANEXO-7-1-2:94; ANEXO-8-1:28,73,133,198,314; ANEXO-8-2:60,235,264,306"
+Arequipa;040102;MUNICIPALIDAD DISTRITAL DE ALTO SELVA ALEGRE;Gobierno local;;Alto Selva Alegre;7, 8;11;76417718;Presupuesto institucional total del pliego;"ANEXO-7-1-2:94; ANEXO-8-1:10,73,133,314; ANEXO-8-2:60,264"
+Arequipa;040103;MUNICIPALIDAD DISTRITAL DE CAYMA;Gobierno local;;Cayma;7, 8;13;105029455;Presupuesto institucional total del pliego;"ANEXO-7-1-2:94-95; ANEXO-8-1:38,73,133,314; ANEXO-8-2:60,264"
+Arequipa;040104;MUNICIPALIDAD DISTRITAL DE CERRO COLORADO;Gobierno local;;Cerro Colorado;7, 8;10;321523091;Presupuesto institucional total del pliego;"ANEXO-7-1-2:95; ANEXO-8-1:73,133,314; ANEXO-8-2:60,217,264"
+Arequipa;040105;MUNICIPALIDAD DISTRITAL DE CHARACATO;Gobierno local;;Characato;7, 8;10;21941304;Presupuesto institucional total del pliego;"ANEXO-7-1-2:95; ANEXO-8-1:38,73,133,314; ANEXO-8-2:128,218,264"
+Arequipa;040106;MUNICIPALIDAD DISTRITAL DE CHIGUATA;Gobierno local;;Chiguata;7, 8;7;9587934;Presupuesto institucional total del pliego;"ANEXO-7-1-2:95-96; ANEXO-8-1:10,73,133,314; ANEXO-8-2:128,218"
+Arequipa;040107;MUNICIPALIDAD DISTRITAL DE JACOBO HUNTER;Gobierno local;;Jacobo Hunter;7, 8;12;45826109;Presupuesto institucional total del pliego;"ANEXO-7-1-2:96; ANEXO-8-1:10,38,73,133,314; ANEXO-8-2:264,306"
+Arequipa;040108;MUNICIPALIDAD DISTRITAL DE LA JOYA;Gobierno local;;La Joya;7, 8;8;86619055;Presupuesto institucional total del pliego;"ANEXO-7-1-2:96; ANEXO-8-1:73,133,240; ANEXO-8-2:264"
+Arequipa;040109;MUNICIPALIDAD DISTRITAL DE MARIANO MELGAR;Gobierno local;;Mariano Melgar;7, 8;9;74435230;Presupuesto institucional total del pliego;"ANEXO-7-1-2:96; ANEXO-8-1:10,73,133,198,314; ANEXO-8-2:60,264"
+Arequipa;040110;MUNICIPALIDAD DISTRITAL DE MIRAFLORES;Gobierno local;;Miraflores;7, 8;11;65200754;Presupuesto institucional total del pliego;"ANEXO-7-1-2:97; ANEXO-8-1:73,133,314; ANEXO-8-2:60,264"
+Arequipa;040111;MUNICIPALIDAD DISTRITAL DE MOLLEBAYA;Gobierno local;;Mollebaya;7, 8;10;13595431;Presupuesto institucional total del pliego;"ANEXO-7-1-2:97; ANEXO-8-1:73,133,240,314; ANEXO-8-2:60,128,218,306"
+Arequipa;040112;MUNICIPALIDAD DISTRITAL DE PAUCARPATA;Gobierno local;;Paucarpata;7, 8;12;106322357;Presupuesto institucional total del pliego;"ANEXO-7-1-2:97; ANEXO-8-1:73,133,314; ANEXO-8-2:60,264,306"
+Arequipa;040113;MUNICIPALIDAD DISTRITAL DE POCSI;Gobierno local;;Pocsi;7, 8;6;2670086;Presupuesto institucional total del pliego;"ANEXO-7-1-2:97-98; ANEXO-8-1:73,133,240; ANEXO-8-2:128,265"
+Arequipa;040114;MUNICIPALIDAD DISTRITAL DE POLOBAYA;Gobierno local;;Polobaya;7, 8;6;3021481;Presupuesto institucional total del pliego;"ANEXO-7-1-2:98; ANEXO-8-1:73,133,314; ANEXO-8-2:128,218"
+Arequipa;040115;MUNICIPALIDAD DISTRITAL DE QUEQUEÑA;Gobierno local;;Quequena;7, 8;7;15879811;Presupuesto institucional total del pliego;"ANEXO-7-1-2:98; ANEXO-8-1:73,133,240,314; ANEXO-8-2:128,218"
+Arequipa;040116;MUNICIPALIDAD DISTRITAL DE SABANDIA;Gobierno local;;Sabandia;7, 8;11;6535989;Presupuesto institucional total del pliego;"ANEXO-7-1-2:98-99; ANEXO-8-1:73,133,314; ANEXO-8-2:265"
+Arequipa;040117;MUNICIPALIDAD DISTRITAL DE SACHACA;Gobierno local;;Sachaca;7, 8;8;46225870;Presupuesto institucional total del pliego;"ANEXO-7-1-2:99; ANEXO-8-1:73,133,315; ANEXO-8-2:128,218,265"
+Arequipa;040118;MUNICIPALIDAD DISTRITAL DE SAN JUAN DE SIGUAS;Gobierno local;;San Juan De Siguas;7, 8;7;2163491;Presupuesto institucional total del pliego;"ANEXO-7-1-2:99; ANEXO-8-1:73,133; ANEXO-8-2:128,265"
+Arequipa;040119;MUNICIPALIDAD DISTRITAL DE SAN JUAN DE TARUCANI;Gobierno local;;San Juan De Tarucani;7, 8;6;8571726;Presupuesto institucional total del pliego;"ANEXO-7-1-2:99; ANEXO-8-1:28,73,133,240,315; ANEXO-8-2:128,218,265"
+Arequipa;040120;MUNICIPALIDAD DISTRITAL DE SANTA ISABEL DE SIGUAS;Gobierno local;;Santa Isabel De Siguas;7, 8;5;2691425;Presupuesto institucional total del pliego;"ANEXO-7-1-2:99-100; ANEXO-8-1:73,134,240; ANEXO-8-2:128"
+Arequipa;040121;MUNICIPALIDAD DISTRITAL DE SANTA RITA DE SIGUAS;Gobierno local;;Santa Rita De Siguas;7, 8;6;11231529;Presupuesto institucional total del pliego;"ANEXO-7-1-2:100; ANEXO-8-1:73,134,241; ANEXO-8-2:128,218"
+Arequipa;040122;MUNICIPALIDAD DISTRITAL DE SOCABAYA;Gobierno local;;Socabaya;7, 8;12;90266490;Presupuesto institucional total del pliego;"ANEXO-7-1-2:100; ANEXO-8-1:73,134,315; ANEXO-8-2:60,218,265"
+Arequipa;040123;MUNICIPALIDAD DISTRITAL DE TIABAYA;Gobierno local;;Tiabaya;7, 8;12;55434978;Presupuesto institucional total del pliego;"ANEXO-7-1-2:100; ANEXO-8-1:73,134,315; ANEXO-8-2:218,265"
+Arequipa;040124;MUNICIPALIDAD DISTRITAL DE UCHUMAYO;Gobierno local;;Uchumayo;7, 8;12;68585229;Presupuesto institucional total del pliego;"ANEXO-7-1-2:101; ANEXO-8-1:73,134,315; ANEXO-8-2:42,60,128,218"
+Arequipa;040125;MUNICIPALIDAD DISTRITAL DE VITOR;Gobierno local;;Vitor;7, 8;7;17400852;Presupuesto institucional total del pliego;"ANEXO-7-1-2:101; ANEXO-8-1:10,38,73,134,241; ANEXO-8-2:218,265"
+Arequipa;040126;MUNICIPALIDAD DISTRITAL DE YANAHUARA;Gobierno local;;Yanahuara;7, 8;11;27372003;Presupuesto institucional total del pliego;"ANEXO-7-1-2:101; ANEXO-8-1:10,73,134,315; ANEXO-8-2:306"
+Arequipa;040127;MUNICIPALIDAD DISTRITAL DE YARABAMBA;Gobierno local;;Yarabamba;7, 8;7;88154578;Presupuesto institucional total del pliego;"ANEXO-7-1-2:101-102; ANEXO-8-1:73,134,241,315; ANEXO-8-2:60,128,265,306"
+Arequipa;040128;MUNICIPALIDAD DISTRITAL DE YURA;Gobierno local;;Yura;7, 8;14;74822860;Presupuesto institucional total del pliego;"ANEXO-7-1-2:102; ANEXO-8-1:39,73,134,315; ANEXO-8-2:60,128,218,265,306"
+Arequipa;040129;MUNICIPALIDAD DISTRITAL DE JOSE LUIS BUSTAMANTE Y RIVERO;Gobierno local;;Jose Luis Bustamante Y Rivero;7, 8;11;74921749;Presupuesto institucional total del pliego;"ANEXO-7-1-2:102; ANEXO-8-1:10,39,73,134,315; ANEXO-8-2:218,265"
+Arequipa;040201;MUNICIPALIDAD PROVINCIAL DE CAMANA;Gobierno local;;Camana;7, 8;16;21552728;Presupuesto institucional total del pliego;"ANEXO-7-1-2:103; ANEXO-8-1:28,73,134,241,315; ANEXO-8-2:265,306"
+Arequipa;040202;MUNICIPALIDAD DISTRITAL DE JOSE MARIA QUIMPER;Gobierno local;;Jose Maria Quimper;7, 8;7;5565752;Presupuesto institucional total del pliego;"ANEXO-7-1-2:103; ANEXO-8-1:73,134; ANEXO-8-2:128,218,306"
+Arequipa;040203;MUNICIPALIDAD DISTRITAL DE MARIANO NICOLAS VALCARCEL;Gobierno local;;Mariano Nicolas Valcarcel;7, 8;9;15654202;Presupuesto institucional total del pliego;"ANEXO-7-1-2:103; ANEXO-8-1:10,73,134; ANEXO-8-2:60,128"
+Arequipa;040204;MUNICIPALIDAD DISTRITAL DE MARISCAL CACERES;Gobierno local;;Mariscal Caceres;7, 8;9;8574000;Presupuesto institucional total del pliego;"ANEXO-7-1-2:103-104; ANEXO-8-1:73,134,259,315; ANEXO-8-2:60,128,218,265"
+Arequipa;040205;MUNICIPALIDAD DISTRITAL DE NICOLAS DE PIEROLA;Gobierno local;;Nicolas De Pierola;7, 8;9;8075643;Presupuesto institucional total del pliego;"ANEXO-7-1-2:104; ANEXO-8-1:74,134,315; ANEXO-8-2:60,128,265"
+Arequipa;040206;MUNICIPALIDAD DISTRITAL DE OCOÑA;Gobierno local;;Ocona;7, 8;10;5739510;Presupuesto institucional total del pliego;"ANEXO-7-1-2:104; ANEXO-8-1:74,134,241"
+Arequipa;040207;MUNICIPALIDAD DISTRITAL DE QUILCA;Gobierno local;;Quilca;7, 8;6;2238365;Presupuesto institucional total del pliego;"ANEXO-7-1-2:104; ANEXO-8-1:74,134; ANEXO-8-2:128,306"
+Arequipa;040208;MUNICIPALIDAD DISTRITAL DE SAMUEL PASTOR;Gobierno local;;Samuel Pastor;7, 8;12;19508674;Presupuesto institucional total del pliego;"ANEXO-7-1-2:105; ANEXO-8-1:74,134,315; ANEXO-8-2:128,265"
+Arequipa;040301;MUNICIPALIDAD PROVINCIAL DE CARAVELI;Gobierno local;;Caraveli;7, 8;10;14336170;Presupuesto institucional total del pliego;"ANEXO-7-1-2:105; ANEXO-8-1:28,39,74,134; ANEXO-8-2:60"
+Arequipa;040302;MUNICIPALIDAD DISTRITAL DE ACARI;Gobierno local;;Acari;7, 8;8;8767015;Presupuesto institucional total del pliego;"ANEXO-7-1-2:105; ANEXO-8-1:74,134,315; ANEXO-8-2:128"
+Arequipa;040303;MUNICIPALIDAD DISTRITAL DE ATICO;Gobierno local;;Atico;7, 8;10;14376022;Presupuesto institucional total del pliego;"ANEXO-7-1-2:105-106; ANEXO-8-1:74,134; ANEXO-8-2:218,265"
+Arequipa;040304;MUNICIPALIDAD DISTRITAL DE ATIQUIPA;Gobierno local;;Atiquipa;7, 8;6;3301834;Presupuesto institucional total del pliego;"ANEXO-7-1-2:106; ANEXO-8-1:10,74; ANEXO-8-2:128,218"
+Arequipa;040305;MUNICIPALIDAD DISTRITAL DE BELLA UNION;Gobierno local;;Bella Union;7, 8;7;8102238;Presupuesto institucional total del pliego;"ANEXO-7-1-2:106; ANEXO-8-1:74,134,315; ANEXO-8-2:128,218,265,306"
+Arequipa;040306;MUNICIPALIDAD DISTRITAL DE CAHUACHO;Gobierno local;;Cahuacho;7, 8;5;1795412;Presupuesto institucional total del pliego;"ANEXO-7-1-2:106; ANEXO-8-1:74,134,241; ANEXO-8-2:60,128,218"
+Arequipa;040307;MUNICIPALIDAD DISTRITAL DE CHALA;Gobierno local;;Chala;7, 8;10;26993296;Presupuesto institucional total del pliego;"ANEXO-7-1-2:106-107; ANEXO-8-1:74,134,315; ANEXO-8-2:128,265"
+Arequipa;040308;MUNICIPALIDAD DISTRITAL DE CHAPARRA;Gobierno local;;Chaparra;7, 8;5;8104537;Presupuesto institucional total del pliego;"ANEXO-7-1-2:107; ANEXO-8-1:74,134,241,315; ANEXO-8-2:128,218,306"
+Arequipa;040309;MUNICIPALIDAD DISTRITAL DE HUANUHUANU;Gobierno local;;Huanuhuanu;7, 8;10;10335229;Presupuesto institucional total del pliego;"ANEXO-7-1-2:107; ANEXO-8-1:74,134"
+Arequipa;040310;MUNICIPALIDAD DISTRITAL DE JAQUI;Gobierno local;;Jaqui;7, 8;5;2577636;Presupuesto institucional total del pliego;"ANEXO-7-1-2:107; ANEXO-8-1:10,74,134,241,259,315; ANEXO-8-2:60,128,218"
+Arequipa;040311;MUNICIPALIDAD DISTRITAL DE LOMAS;Gobierno local;;Lomas;7, 8;6;3747990;Presupuesto institucional total del pliego;"ANEXO-7-1-2:108; ANEXO-8-1:74,134; ANEXO-8-2:128"
+Arequipa;040312;MUNICIPALIDAD DISTRITAL DE QUICACHA;Gobierno local;;Quicacha;7, 8;6;4846331;Presupuesto institucional total del pliego;"ANEXO-7-1-2:108; ANEXO-8-1:74,134; ANEXO-8-2:128,265"
+Arequipa;040313;MUNICIPALIDAD DISTRITAL DE YAUCA;Gobierno local;;Yauca;7, 8;6;3820096;Presupuesto institucional total del pliego;"ANEXO-7-1-2:108; ANEXO-8-1:74,134,315; ANEXO-8-2:128"
+Arequipa;040401;MUNICIPALIDAD PROVINCIAL DE CASTILLA -APIA0;Gobierno local;;Castilla;7, 8;13;15326041;Presupuesto institucional total del pliego;"ANEXO-7-1-2:108-109; ANEXO-8-1:28,74,134; ANEXO-8-2:129,265"
+Arequipa;040402;MUNICIPALIDAD DISTRITAL DE ANDAGUA;Gobierno local;;Andagua;7, 8;7;2708377;Presupuesto institucional total del pliego;"ANEXO-7-1-2:109; ANEXO-8-1:74,241,315; ANEXO-8-2:129"
+Arequipa;040403;MUNICIPALIDAD DISTRITAL DE AYO;Gobierno local;;Ayo;7, 8;7;1256228;Presupuesto institucional total del pliego;"ANEXO-7-1-2:109; ANEXO-8-1:74,241,315; ANEXO-8-2:129,265"
+Arequipa;040404;MUNICIPALIDAD DISTRITAL DE CHACHAS;Gobierno local;;Chachas;7, 8;7;3382406;Presupuesto institucional total del pliego;"ANEXO-7-1-2:109; ANEXO-8-1:134,182; ANEXO-8-2:129,265"
+Arequipa;040405;MUNICIPALIDAD DISTRITAL DE CHILCAYMARCA;Gobierno local;;Chilcaymarca;7, 8;7;4451553;Presupuesto institucional total del pliego;"ANEXO-7-1-2:109-110; ANEXO-8-1:74,134"
+Arequipa;040406;MUNICIPALIDAD DISTRITAL DE CHOCO;Gobierno local;;Choco;7, 8;7;2572554;Presupuesto institucional total del pliego;"ANEXO-7-1-2:110; ANEXO-8-1:135,315; ANEXO-8-2:129"
+Arequipa;040407;MUNICIPALIDAD DISTRITAL DE HUANCARQUI;Gobierno local;;Huancarqui;7, 8;7;2988693;Presupuesto institucional total del pliego;"ANEXO-7-1-2:110; ANEXO-8-1:135; ANEXO-8-2:129"
+Arequipa;040408;MUNICIPALIDAD DISTRITAL DE MACHAGUAY;Gobierno local;;Machaguay;7, 8;5;1460405;Presupuesto institucional total del pliego;"ANEXO-7-1-2:110; ANEXO-8-1:74,135; ANEXO-8-2:129"
+Arequipa;040409;MUNICIPALIDAD DISTRITAL DE ORCOPAMPA;Gobierno local;;Orcopampa;7, 8;5;9362193;Presupuesto institucional total del pliego;"ANEXO-7-1-2:111; ANEXO-8-1:74,135,315; ANEXO-8-2:129,265"
+Arequipa;040410;MUNICIPALIDAD DISTRITAL DE PAMPACOLCA;Gobierno local;;Pampacolca;7, 8;6;2491660;Presupuesto institucional total del pliego;"ANEXO-7-1-2:111; ANEXO-8-1:74,135,241; ANEXO-8-2:129"
+Arequipa;040411;MUNICIPALIDAD DISTRITAL DE TIPAN;Gobierno local;;Tipan;7, 8;5;1424851;Presupuesto institucional total del pliego;"ANEXO-7-1-2:111; ANEXO-8-1:135; ANEXO-8-2:129"
+Arequipa;040412;MUNICIPALIDAD DISTRITAL DE UÑON;Gobierno local;;Unon;7, 8;6;1417764;Presupuesto institucional total del pliego;"ANEXO-7-1-2:111; ANEXO-8-1:74,135,241"
+Arequipa;040413;MUNICIPALIDAD DISTRITAL DE URACA;Gobierno local;;Uraca;7, 8;8;8705129;Presupuesto institucional total del pliego;"ANEXO-7-1-2:111-112; ANEXO-8-1:74,135"
+Arequipa;040414;MUNICIPALIDAD DISTRITAL DE VIRACO;Gobierno local;;Viraco;7, 8;6;2620490;Presupuesto institucional total del pliego;"ANEXO-7-1-2:112; ANEXO-8-1:74,135,241; ANEXO-8-2:129"
+Arequipa;040501;MUNICIPALIDAD PROVINCIAL DE CAYLLOMA -CHIVAY;Gobierno local;;Caylloma;7, 8;16;42722901;Presupuesto institucional total del pliego;"ANEXO-7-1-2:112; ANEXO-8-1:28,74,135,182,241,315; ANEXO-8-2:129"
+Arequipa;040502;MUNICIPALIDAD DISTRITAL DE ACHOMA;Gobierno local;;Achoma;7, 8;5;2081576;Presupuesto institucional total del pliego;"ANEXO-7-1-2:112; ANEXO-8-1:74,241; ANEXO-8-2:129,218"
+Arequipa;040503;MUNICIPALIDAD DISTRITAL DE CABANACONDE;Gobierno local;;Cabanaconde;7, 8;7;4160140;Presupuesto institucional total del pliego;"ANEXO-7-1-2:113; ANEXO-8-1:135,241,315; ANEXO-8-2:129,218"
+Arequipa;040504;MUNICIPALIDAD DISTRITAL DE CALLALLI;Gobierno local;;Callalli;7, 8;5;2856451;Presupuesto institucional total del pliego;"ANEXO-7-1-2:113; ANEXO-8-1:74,135,182,315; ANEXO-8-2:129,218"
+Arequipa;040505;MUNICIPALIDAD DISTRITAL DE CAYLLOMA;Gobierno local;;Caylloma;7, 8;8;9311530;Presupuesto institucional total del pliego;"ANEXO-7-1-2:113; ANEXO-8-1:74,135,182,315; ANEXO-8-2:129"
+Arequipa;040506;MUNICIPALIDAD DISTRITAL DE COPORAQUE;Gobierno local;;Coporaque;7, 8;6;2471709;Presupuesto institucional total del pliego;"ANEXO-7-1-2:113; ANEXO-8-1:74,135,182; ANEXO-8-2:129,218"
+Arequipa;040507;MUNICIPALIDAD DISTRITAL DE HUAMBO;Gobierno local;;Huambo;7, 8;5;1906358;Presupuesto institucional total del pliego;"ANEXO-7-1-2:114; ANEXO-8-1:74,135; ANEXO-8-2:129,174,218"
+Arequipa;040508;MUNICIPALIDAD DISTRITAL DE HUANCA;Gobierno local;;Huanca;7, 8;7;3197295;Presupuesto institucional total del pliego;"ANEXO-7-1-2:114; ANEXO-8-1:75,135,241,259; ANEXO-8-2:129"
+Arequipa;040509;MUNICIPALIDAD DISTRITAL DE ICHUPAMPA;Gobierno local;;Ichupampa;7, 8;7;1956955;Presupuesto institucional total del pliego;"ANEXO-7-1-2:114; ANEXO-8-1:75,135,315; ANEXO-8-2:129"
+Arequipa;040510;MUNICIPALIDAD DISTRITAL DE LARI;Gobierno local;;Lari;7, 8;5;2287245;Presupuesto institucional total del pliego;"ANEXO-7-1-2:114; ANEXO-8-1:75,135,241,315; ANEXO-8-2:129"
+Arequipa;040511;MUNICIPALIDAD DISTRITAL DE LLUTA;Gobierno local;;Lluta;7, 8;6;2532438;Presupuesto institucional total del pliego;"ANEXO-7-1-2:115; ANEXO-8-1:75,135; ANEXO-8-2:129"
+Arequipa;040512;MUNICIPALIDAD DISTRITAL DE MACA;Gobierno local;;Maca;7, 8;5;1942118;Presupuesto institucional total del pliego;"ANEXO-7-1-2:115; ANEXO-8-1:75,135,241"
+Arequipa;040513;MUNICIPALIDAD DISTRITAL DE MADRIGAL;Gobierno local;;Madrigal;7, 8;5;2331760;Presupuesto institucional total del pliego;"ANEXO-7-1-2:115; ANEXO-8-1:75,135,182,241; ANEXO-8-2:129"
+Arequipa;040514;MUNICIPALIDAD DISTRITAL DE SAN ANTONIO DE CHUCA;Gobierno local;;San Antonio De Chuca;7, 8;7;3410920;Presupuesto institucional total del pliego;"ANEXO-7-1-2:115; ANEXO-8-1:75,135,182,241; ANEXO-8-2:129,218,300"
+Arequipa;040515;MUNICIPALIDAD DISTRITAL DE SIBAYO;Gobierno local;;Sibayo;7, 8;6;2187288;Presupuesto institucional total del pliego;"ANEXO-7-1-2:115-116; ANEXO-8-1:75,135; ANEXO-8-2:129"
+Arequipa;040516;MUNICIPALIDAD DISTRITAL DE TAPAY;Gobierno local;;Tapay;7, 8;5;4863028;Presupuesto institucional total del pliego;"ANEXO-7-1-2:116; ANEXO-8-1:75,135,191,241,315; ANEXO-8-2:129"
+Arequipa;040517;MUNICIPALIDAD DISTRITAL DE TISCO;Gobierno local;;Tisco;7, 8;6;4067942;Presupuesto institucional total del pliego;"ANEXO-7-1-2:116; ANEXO-8-1:75,135; ANEXO-8-2:60,129,218"
+Arequipa;040518;MUNICIPALIDAD DISTRITAL DE TUTI;Gobierno local;;Tuti;7, 8;5;1986625;Presupuesto institucional total del pliego;"ANEXO-7-1-2:116; ANEXO-8-1:75,135,182,241,259; ANEXO-8-2:129,218"
+Arequipa;040519;MUNICIPALIDAD DISTRITAL DE YANQUE;Gobierno local;;Yanque;7, 8;7;4546238;Presupuesto institucional total del pliego;"ANEXO-7-1-2:116-117; ANEXO-8-1:75,135,241; ANEXO-8-2:129"
+Arequipa;040520;MUNICIPALIDAD DISTRITAL DE MAJES;Gobierno local;;Majes;7, 8;12;120814620;Presupuesto institucional total del pliego;"ANEXO-7-1-2:117; ANEXO-8-1:28,39,52,56,75,135,182,315; ANEXO-8-2:129,265,293,306"
+Arequipa;040601;MUNICIPALIDAD PROVINCIAL DE CONDESUYOS -CHUQUIBAMBA;Gobierno local;;Condesuyos;7, 8;11;9903020;Presupuesto institucional total del pliego;"ANEXO-7-1-2:117; ANEXO-8-1:28,75,135,315; ANEXO-8-2:129,265"
+Arequipa;040602;MUNICIPALIDAD DISTRITAL DE ANDARAY;Gobierno local;;Andaray;7, 8;5;2464586;Presupuesto institucional total del pliego;"ANEXO-7-1-2:117; ANEXO-8-1:75,135,260,315; ANEXO-8-2:129,218"
+Arequipa;040603;MUNICIPALIDAD DISTRITAL DE CAYARANI;Gobierno local;;Cayarani;7, 8;5;8271306;Presupuesto institucional total del pliego;"ANEXO-7-1-2:118; ANEXO-8-1:10,135,182; ANEXO-8-2:129,218"
+Arequipa;040604;MUNICIPALIDAD DISTRITAL DE CHICHAS;Gobierno local;;Chichas;7, 8;5;2327956;Presupuesto institucional total del pliego;"ANEXO-7-1-2:118; ANEXO-8-1:75,135,191,241; ANEXO-8-2:129"
+Arequipa;040605;MUNICIPALIDAD DISTRITAL DE IRAY;Gobierno local;;Iray;7, 8;5;1808918;Presupuesto institucional total del pliego;"ANEXO-7-1-2:118; ANEXO-8-1:75,135; ANEXO-8-2:130,265"
+Arequipa;040606;MUNICIPALIDAD DISTRITAL DE RIO GRANDE;Gobierno local;;Rio Grande;7, 8;7;11224079;Presupuesto institucional total del pliego;"ANEXO-7-1-2:118; ANEXO-8-1:75,135,241,316; ANEXO-8-2:130,218,265"
+Arequipa;040607;MUNICIPALIDAD DISTRITAL DE SALAMANCA;Gobierno local;;Salamanca;7, 8;5;1774947;Presupuesto institucional total del pliego;"ANEXO-7-1-2:118-119; ANEXO-8-1:136,316; ANEXO-8-2:130"
+Arequipa;040608;MUNICIPALIDAD DISTRITAL DE YANAQUIHUA;Gobierno local;;Yanaquihua;7, 8;10;10866185;Presupuesto institucional total del pliego;"ANEXO-7-1-2:119; ANEXO-8-1:75,136,316; ANEXO-8-2:130"
+Arequipa;040701;MUNICIPALIDAD PROVINCIAL DE ISLAY -MOLIENDO;Gobierno local;;Islay;7, 8;14;70685742;Presupuesto institucional total del pliego;"ANEXO-7-1-2:119; ANEXO-8-1:28,75,136,316; ANEXO-8-2:218"
+Arequipa;040702;MUNICIPALIDAD DISTRITAL DE COCACHACRA;Gobierno local;;Cocachacra;7, 8;12;30695046;Presupuesto institucional total del pliego;"ANEXO-7-1-2:119-120; ANEXO-8-1:75,136,316; ANEXO-8-2:265"
+Arequipa;040703;MUNICIPALIDAD DISTRITAL DE DEAN VALDIVIA;Gobierno local;;Dean Valdivia;7, 8;13;19975986;Presupuesto institucional total del pliego;"ANEXO-7-1-2:120; ANEXO-8-1:39,75,136,316; ANEXO-8-2:130,265"
+Arequipa;040704;MUNICIPALIDAD DISTRITAL DE ISLAY;Gobierno local;;Islay;7, 8;8;20287330;Presupuesto institucional total del pliego;"ANEXO-7-1-2:120; ANEXO-8-1:75,136,182,191,316"
+Arequipa;040705;MUNICIPALIDAD DISTRITAL DE MEJIA;Gobierno local;;Mejia;7, 8;9;12136335;Presupuesto institucional total del pliego;"ANEXO-7-1-2:120-121; ANEXO-8-1:39,75,136,316; ANEXO-8-2:60,265"
+Arequipa;040706;MUNICIPALIDAD DISTRITAL DE PUNTA DE BOMBON;Gobierno local;;Punta De Bombon;7, 8;10;18808177;Presupuesto institucional total del pliego;"ANEXO-7-1-2:121; ANEXO-8-1:75,136,316; ANEXO-8-2:130"
+Arequipa;040801;MUNICIPALIDAD PROVINCIAL DE LA UNION -COTA}UASI;Gobierno local;;La Union;7, 8;10;7391893;Presupuesto institucional total del pliego;"ANEXO-7-1-2:121; ANEXO-8-1:28,75,136,316; ANEXO-8-2:130,219"
+Arequipa;040802;MUNICIPALIDAD DISTRITAL DE ALCA;Gobierno local;;Alca;7, 8;6;3012062;Presupuesto institucional total del pliego;"ANEXO-7-1-2:121; ANEXO-8-1:75,136,241; ANEXO-8-2:130,265"
+Arequipa;040803;MUNICIPALIDAD DISTRITAL DE CHARCANA;Gobierno local;;Charcana;7, 8;5;1610396;Presupuesto institucional total del pliego;"ANEXO-7-1-2:122; ANEXO-8-1:75,136,241; ANEXO-8-2:130,265"
+Arequipa;040804;MUNICIPALIDAD DISTRITAL DE HUAYNACOTAS;Gobierno local;;Huaynacotas;7, 8;7;3564690;Presupuesto institucional total del pliego;"ANEXO-7-1-2:122; ANEXO-8-1:75,136,241; ANEXO-8-2:130,265"
+Arequipa;040805;MUNICIPALIDAD DISTRITAL DE PAMPAMARCA;Gobierno local;;Pampamarca;7, 8;5;2068054;Presupuesto institucional total del pliego;"ANEXO-7-1-2:122; ANEXO-8-1:75,136; ANEXO-8-2:130"
+Arequipa;040806;MUNICIPALIDAD DISTRITAL DE PUYCA;Gobierno local;;Puyca;7, 8;5;4035276;Presupuesto institucional total del pliego;"ANEXO-7-1-2:122; ANEXO-8-1:75,136,182,241; ANEXO-8-2:130"
+Arequipa;040807;MUNICIPALIDAD DISTRITAL DE QUECHUAL1A;Gobierno local;;Quechual1A;7, 8;6;1444776;Presupuesto institucional total del pliego;"ANEXO-7-1-2:122-123; ANEXO-8-1:75,136,191,316; ANEXO-8-2:130"
+Arequipa;040808;MUNICIPALIDAD DISTRITAL DE SAYLA;Gobierno local;;Sayla;7, 8;6;1325571;Presupuesto institucional total del pliego;"ANEXO-7-1-2:123; ANEXO-8-1:75,136,241; ANEXO-8-2:130"
+Arequipa;040809;MUNICIPALIDAD DISTRITAL DE TAURIA;Gobierno local;;Tauria;7, 8;5;1374613;Presupuesto institucional total del pliego;"ANEXO-7-1-2:123; ANEXO-8-1:136; ANEXO-8-2:130"
+Arequipa;040810;MUNICIPALIDAD DISTRITAL DE TOMEPAMPA;Gobierno local;;Tomepampa;7, 8;5;1654472;Presupuesto institucional total del pliego;"ANEXO-7-1-2:123; ANEXO-8-1:75,136,182,241; ANEXO-8-2:130"
+Arequipa;040811;MUNICIPALIDAD DISTRITAL DE TORO;Gobierno local;;Toro;7, 8;5;1703223;Presupuesto institucional total del pliego;"ANEXO-7-1-2:123-124; ANEXO-8-1:76,136; ANEXO-8-2:130"
+Arequipa;046406;MUNICIPALIDAD DISTRITAL DE CHOCO;Gobierno local;;;8;0;0;Partidas localizadas en Arequipa;ANEXO-8-1:74
 Moquegua;455;GOBIERNO REGIONAL DEL DEPARTAMENTO DE MOQUEGUA;Gobierno regional;;;6, 8;348;768940447;Presupuesto institucional total del pliego;"ANEXO-6-2:54-69; ANEXO-8-1:6,27,37,52,56,180,190,198,237,259,266,306; ANEXO-8-2:118,174,216,280,284,286,288,304"
-Moquegua;3;M. DE CULTURA;Gobierno nacional;;;5;1;81069;Partidas localizadas en Moquegua;ANEXO-5-1:33
-Moquegua;5;M. DEL AMBIENTE;Gobierno nacional;;;5;1;6078472;Partidas localizadas en Moquegua;ANEXO-5-1:44
-Moquegua;10;M. DE EDUCACION;Gobierno nacional;;;5;4;15297423;Partidas localizadas en Moquegua;ANEXO-5-1:97,102,105
-Moquegua;13;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;7;5741423;Partidas localizadas en Moquegua;ANEXO-5-3:6-7,9,11,13,16
-Moquegua;16;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;1;1180000;Partidas localizadas en Moquegua;ANEXO-5-3:31
-Moquegua;26;M. DE DEFENSA;Gobierno nacional;;;5;1;2203718;Partidas localizadas en Moquegua;ANEXO-5-3:54
-Moquegua;29;AUTORIDAD NACIONAL DE INFRAESTRUCTURA;Gobierno nacional;;;5;2;4701000;Partidas localizadas en Moquegua;ANEXO-5-1:21,23
-Moquegua;35;MINISTERIO DE COMERCIO EXTERIOR Y TURISMO;Gobierno nacional;;;5;1;655365;Partidas localizadas en Moquegua;ANEXO-5-3:68
-Moquegua;36;MINISTERIO DE TRANSPORTES Y COMUNICACIONES;Gobierno nacional;;;5;8;121486634;Partidas localizadas en Moquegua;ANEXO-5-3:74-76,78,80-81
-Moquegua;37;MINISTERIO DE VIVIENDA, CONSTRUCCION Y SANEAMIENTO;Gobierno nacional;;;5;3;420006;Partidas localizadas en Moquegua;ANEXO-5-3:103,105,107
+Moquegua;005;M. DEL AMBIENTE;Gobierno nacional;;;5;1;6078472;Partidas localizadas en Moquegua;ANEXO-5-1:44
+Moquegua;010;M. DE EDUCACION;Gobierno nacional;;;5;2;14795554;Partidas localizadas en Moquegua;ANEXO-5-1:102,105
+Moquegua;011;M. DE SALUD;Gobierno nacional;;;5;2;221202;Partidas localizadas en Moquegua;ANEXO-5-2:119-120
+Moquegua;013;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;9;10018372;Partidas localizadas en Moquegua;ANEXO-5-3:7,9,11-14,17
+Moquegua;016;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;1;1060000;Partidas localizadas en Moquegua;ANEXO-5-3:35
+Moquegua;026;M. DE DEFENSA;Gobierno nacional;;;5;1;2203718;Partidas localizadas en Moquegua;ANEXO-5-3:54
+Moquegua;035;MINISTERIO DE COMERCIO EXTERIOR Y TURISMO;Gobierno nacional;;;5;1;655365;Partidas localizadas en Moquegua;ANEXO-5-3:68
+Moquegua;036;MINISTERIO DE TRANSPORTES Y COMUNICACIONES;Gobierno nacional;;;5;5;77613800;Partidas localizadas en Moquegua;ANEXO-5-3:74,76,78,80-81
+Moquegua;039;MINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES;Gobierno nacional;;;5;1;233375;Partidas localizadas en Moquegua;ANEXO-5-3:135
+Moquegua;050;SERVICIO NACIONAL DE AREAS NATURALES PROTEGIDAS POR EL ESTADO - SERNANP;Gobierno nacional;;;5;1;20000;Partidas localizadas en Moquegua;ANEXO-5-1:47
+Moquegua;067;SUPERINTENDENCIA NACIONAL DE LOS REGISTROS PUBLICOS;Gobierno nacional;;;5;2;269832;Partidas localizadas en Moquegua;ANEXO-5-1:63
+Moquegua;163;INSTITUTO NACIONAL DE INNOVACION AGRARIA;Gobierno nacional;;;5;1;18000000;Partidas localizadas en Moquegua;ANEXO-5-3:23
 Moquegua;241;INSTITUTO TECNOLOGICO DE LA PRODUCCION - ITP;Gobierno nacional;;;5;2;799047;Partidas localizadas en Moquegua;ANEXO-5-3:130
-Moquegua;511;U.N. DE SAN ANTONIO ABAD DEL CUSCO;Gobierno nacional;;;5;1;17861041;Partidas localizadas en Moquegua;ANEXO-5-1:115
-Moquegua;516;U.N. SAN CRISTOBAL DE HUAMANGA;Gobierno nacional;;;5;1;2050000;Partidas localizadas en Moquegua;ANEXO-5-1:128
 Moquegua;545;U.N. DE MOQUEGUA;Gobierno nacional;;;5;31;64616600;Presupuesto institucional total del pliego;ANEXO-5-2:52-53
-Moquegua;180101;MUNICIPALIDAD PROVINCIAL DE MARISCAL NIETO -MOQUEGUA;Gobierno local;Mariscal Nieto;Mariscal Nieto;7, 8;15;225961149;Presupuesto institucional total del pliego;"ANEXO-7-2-2:166; ANEXO-8-1:22,33,107,167,247; ANEXO-8-2:29,63,225,273"
-Moquegua;180102;MUNICIPALIDAD DISTRITAL DE CARUMAS;Gobierno local;Mariscal Nieto;Carumas;7, 8;9;19790342;Presupuesto institucional total del pliego;"ANEXO-7-2-2:166-167; ANEXO-8-1:107,167; ANEXO-8-2:29"
-Moquegua;180103;MUNICIPALIDAD DISTRITAL DE CUCHUMBAYA;Gobierno local;Mariscal Nieto;Cuchumbaya;7;6;6077820;Presupuesto institucional total del pliego;ANEXO-7-2-2:167
-Moquegua;180104;MUNICIPALIDAD DISTRITAL DE SAMEGUA;Gobierno local;Mariscal Nieto;Samegua;7, 8;6;40644795;Presupuesto institucional total del pliego;"ANEXO-7-2-2:167; ANEXO-8-1:107,167,194; ANEXO-8-2:273"
-Moquegua;180105;MUNICIPALIDAD DISTRITAL DE SAN CRISTOBAL;Gobierno local;Mariscal Nieto;San Cristobal;7, 8;6;9364538;Presupuesto institucional total del pliego;"ANEXO-7-2-2:167; ANEXO-8-1:247; ANEXO-8-2:159"
-Moquegua;180106;MUNICIPALIDAD DISTRITAL DE TORATA;Gobierno local;Mariscal Nieto;Torata;7, 8;14;165897982;Presupuesto institucional total del pliego;"ANEXO-7-2-2:167-168; ANEXO-8-1:22,107,167,247,261; ANEXO-8-2:63,159,225,273"
-Moquegua;180107;MUNICIPALIDAD DISTRITAL DE SAN ANTONIO;Gobierno local;Mariscal Nieto;San Antonio;7, 8;8;208938143;Presupuesto institucional total del pliego;"ANEXO-7-2-2:168; ANEXO-8-1:107,167,247; ANEXO-8-2:29,63,273"
-Moquegua;180201;MUNICIPALIDAD PROVINCIAL DE GENERAL SANCHEZ CERRO -OMATE;Gobierno local;General Sánchez Cerro;General Sanchez Cerro;7, 8;10;10382841;Presupuesto institucional total del pliego;"ANEXO-7-2-2:168; ANEXO-8-1:33,107,247; ANEXO-8-2:29,273"
-Moquegua;180202;MUNICIPALIDAD DISTRITAL DE CHOJATA;Gobierno local;General Sánchez Cerro;Chojata;7, 8;7;1822199;Presupuesto institucional total del pliego;"ANEXO-7-2-2:168; ANEXO-8-1:22; ANEXO-8-2:29,159"
-Moquegua;180203;MUNICIPALIDAD DISTRITAL DE COALAQUE;Gobierno local;General Sánchez Cerro;Coalaque;7, 8;7;2535846;Presupuesto institucional total del pliego;"ANEXO-7-2-2:168-169; ANEXO-8-1:22,167,247"
-Moquegua;180204;MUNICIPALIDAD DISTRITAL DE ICHUÑA;Gobierno local;General Sánchez Cerro;Ichuna;7, 8;9;13269585;Presupuesto institucional total del pliego;"ANEXO-7-2-2:169; ANEXO-8-1:107,167,199,247; ANEXO-8-2:29,159,273"
-Moquegua;180205;MUNICIPALIDAD DISTRITAL DE LA CAPILLA;Gobierno local;General Sánchez Cerro;La Capilla;7, 8;7;3384313;Presupuesto institucional total del pliego;"ANEXO-7-2-2:169; ANEXO-8-1:22,107,167,247; ANEXO-8-2:29,159"
-Moquegua;180206;MUNICIPALIDAD DISTRITAL DE LLOQUE;Gobierno local;General Sánchez Cerro;Lloque;7, 8;7;2038902;Presupuesto institucional total del pliego;"ANEXO-7-2-2:169; ANEXO-8-1:22,168,247; ANEXO-8-2:159"
-Moquegua;180207;MUNICIPALIDAD DISTRITAL DE MATALAQUE;Gobierno local;General Sánchez Cerro;Matalaque;7, 8;8;1800327;Presupuesto institucional total del pliego;"ANEXO-7-2-2:170; ANEXO-8-1:22,107; ANEXO-8-2:29,159"
-Moquegua;180208;MUNICIPALIDAD DISTRITAL DE PUQUINA;Gobierno local;General Sánchez Cerro;Puquina;7, 8;7;7335198;Presupuesto institucional total del pliego;"ANEXO-7-2-2:170; ANEXO-8-1:107,168"
-Moquegua;180209;MUNICIPALIDAD DISTRITAL DE QUINISTAQUILLAS;Gobierno local;General Sánchez Cerro;Quinistaquillas;7, 8;5;1888010;Presupuesto institucional total del pliego;"ANEXO-7-2-2:170; ANEXO-8-1:107,168,247; ANEXO-8-2:159"
-Moquegua;180210;MUNICIPALIDAD DISTRITAL DE UBINAS;Gobierno local;General Sánchez Cerro;Ubinas;7, 8;10;3402864;Presupuesto institucional total del pliego;"ANEXO-7-2-2:170; ANEXO-8-1:168,248; ANEXO-8-2:29,159"
-Moquegua;180211;MUNICIPALIDAD DISTRITAL DE YUNGA;Gobierno local;General Sánchez Cerro;Yunga;7, 8;5;2598069;Presupuesto institucional total del pliego;"ANEXO-7-2-2:171; ANEXO-8-1:22,107,168; ANEXO-8-2:29,159"
-Moquegua;180301;MUNICIPALIDAD PROVINCIAL DE ILO;Gobierno local;Ilo;Ilo;7, 8;14;197605467;Presupuesto institucional total del pliego;"ANEXO-7-2-2:171; ANEXO-8-1:22,33,46,107,168; ANEXO-8-2:29,273"
-Moquegua;180302;MUNICIPALIDAD DISTRITAL DE EL ALGARROBAL;Gobierno local;Ilo;El Algarrobal;7, 8;8;78613123;Presupuesto institucional total del pliego;"ANEXO-7-2-2:171; ANEXO-8-1:22,107,168,248; ANEXO-8-2:29,159,273,313"
-Moquegua;180303;MUNICIPALIDAD DISTRITAL DE PACOCHA;Gobierno local;Ilo;Pacocha;7, 8;8;12215995;Presupuesto institucional total del pliego;"ANEXO-7-2-2:171-172; ANEXO-8-1:22,107,168; ANEXO-8-2:29,274,313"
+Moquegua;180101;MUNICIPALIDAD PROVINCIAL DE MARISCAL NIETO -MOQUEGUA;Gobierno local;;Mariscal Nieto;7, 8;15;225961149;Presupuesto institucional total del pliego;"ANEXO-7-2-2:166; ANEXO-8-1:22,33,107,167,247; ANEXO-8-2:29,63,225,273"
+Moquegua;180102;MUNICIPALIDAD DISTRITAL DE CARUMAS;Gobierno local;;Carumas;7, 8;9;19790342;Presupuesto institucional total del pliego;"ANEXO-7-2-2:166-167; ANEXO-8-1:107,167; ANEXO-8-2:29"
+Moquegua;180103;MUNICIPALIDAD DISTRITAL DE CUCHUMBAYA;Gobierno local;;Cuchumbaya;7;6;6077820;Presupuesto institucional total del pliego;ANEXO-7-2-2:167
+Moquegua;180104;MUNICIPALIDAD DISTRITAL DE SAMEGUA;Gobierno local;;Samegua;7, 8;6;40644795;Presupuesto institucional total del pliego;"ANEXO-7-2-2:167; ANEXO-8-1:107,167,194; ANEXO-8-2:273"
+Moquegua;180105;MUNICIPALIDAD DISTRITAL DE SAN CRISTOBAL;Gobierno local;;San Cristobal;7, 8;6;9364538;Presupuesto institucional total del pliego;"ANEXO-7-2-2:167; ANEXO-8-1:247; ANEXO-8-2:159"
+Moquegua;180106;MUNICIPALIDAD DISTRITAL DE TORATA;Gobierno local;;Torata;7, 8;13;165897982;Presupuesto institucional total del pliego;"ANEXO-7-2-2:167-168; ANEXO-8-1:22,107,167,247,261; ANEXO-8-2:63,159,225,273"
+Moquegua;180107;MUNICIPALIDAD DISTRITAL DE SAN ANTONIO;Gobierno local;;San Antonio;7, 8;8;208938143;Presupuesto institucional total del pliego;"ANEXO-7-2-2:168; ANEXO-8-1:107,167,247; ANEXO-8-2:29,63,273"
+Moquegua;180201;MUNICIPALIDAD PROVINCIAL DE GENERAL SANCHEZ CERRO -OMATE;Gobierno local;;General Sanchez Cerro;7, 8;10;10382841;Presupuesto institucional total del pliego;"ANEXO-7-2-2:168; ANEXO-8-1:33,107,247; ANEXO-8-2:29,273"
+Moquegua;180202;MUNICIPALIDAD DISTRITAL DE CHOJATA;Gobierno local;;Chojata;7, 8;7;1822199;Presupuesto institucional total del pliego;"ANEXO-7-2-2:168; ANEXO-8-1:22; ANEXO-8-2:29,159"
+Moquegua;180203;MUNICIPALIDAD DISTRITAL DE COALAQUE;Gobierno local;;Coalaque;7, 8;7;2535846;Presupuesto institucional total del pliego;"ANEXO-7-2-2:168-169; ANEXO-8-1:22,167,247"
+Moquegua;180204;MUNICIPALIDAD DISTRITAL DE ICHUÑA;Gobierno local;;Ichuna;7, 8;9;13269585;Presupuesto institucional total del pliego;"ANEXO-7-2-2:169; ANEXO-8-1:107,167,199,247; ANEXO-8-2:29,159,273"
+Moquegua;180205;MUNICIPALIDAD DISTRITAL DE LA CAPILLA;Gobierno local;;La Capilla;7, 8;7;3384313;Presupuesto institucional total del pliego;"ANEXO-7-2-2:169; ANEXO-8-1:22,107,167,247; ANEXO-8-2:29,159"
+Moquegua;180206;MUNICIPALIDAD DISTRITAL DE LLOQUE;Gobierno local;;Lloque;7, 8;7;2038902;Presupuesto institucional total del pliego;"ANEXO-7-2-2:169; ANEXO-8-1:22,168,247; ANEXO-8-2:159"
+Moquegua;180207;MUNICIPALIDAD DISTRITAL DE MATALAQUE;Gobierno local;;Matalaque;7, 8;7;1800327;Presupuesto institucional total del pliego;"ANEXO-7-2-2:170; ANEXO-8-1:22,107; ANEXO-8-2:29,159"
+Moquegua;180208;MUNICIPALIDAD DISTRITAL DE PUQUINA;Gobierno local;;Puquina;7, 8;7;7335198;Presupuesto institucional total del pliego;"ANEXO-7-2-2:170; ANEXO-8-1:107,168"
+Moquegua;180209;MUNICIPALIDAD DISTRITAL DE QUINISTAQUILLAS;Gobierno local;;Quinistaquillas;7, 8;5;1888010;Presupuesto institucional total del pliego;"ANEXO-7-2-2:170; ANEXO-8-1:107,168,247; ANEXO-8-2:159"
+Moquegua;180210;MUNICIPALIDAD DISTRITAL DE UBINAS;Gobierno local;;Ubinas;7, 8;10;3402864;Presupuesto institucional total del pliego;"ANEXO-7-2-2:170; ANEXO-8-1:168,248; ANEXO-8-2:29,159"
+Moquegua;180211;MUNICIPALIDAD DISTRITAL DE YUNGA;Gobierno local;;Yunga;7, 8;5;2598069;Presupuesto institucional total del pliego;"ANEXO-7-2-2:171; ANEXO-8-1:22,107,168; ANEXO-8-2:29,159"
+Moquegua;180301;MUNICIPALIDAD PROVINCIAL DE ILO;Gobierno local;;Ilo;7, 8;14;197605467;Presupuesto institucional total del pliego;"ANEXO-7-2-2:171; ANEXO-8-1:22,33,46,107,168; ANEXO-8-2:29,273"
+Moquegua;180302;MUNICIPALIDAD DISTRITAL DE EL ALGARROBAL;Gobierno local;;El Algarrobal;7, 8;8;78613123;Presupuesto institucional total del pliego;"ANEXO-7-2-2:171; ANEXO-8-1:22,107,168,248; ANEXO-8-2:29,159,273,313"
+Moquegua;180303;MUNICIPALIDAD DISTRITAL DE PACOCHA;Gobierno local;;Pacocha;7, 8;8;12215995;Presupuesto institucional total del pliego;"ANEXO-7-2-2:171-172; ANEXO-8-1:22,107,168; ANEXO-8-2:29,274,313"
 Puno;458;GOBIERNO REGIONAL DEL DEPARTAMENTO DE PUNO;Gobierno regional;;;6, 8;570;3398770623;Presupuesto institucional total del pliego;"ANEXO-6-2:108-134; ANEXO-8-1:6,27,37,52,56,63,237,267,306; ANEXO-8-2:118,171,216,229,232,234,263,280,284,286,289,301,304"
-Puno;4;PODER JUDICIAL;Gobierno nacional;;;5;1;327276;Partidas localizadas en Puno;ANEXO-5-1:40
-Puno;5;M. DEL AMBIENTE;Gobierno nacional;;;5;3;6487721;Partidas localizadas en Puno;ANEXO-5-1:44
-Puno;6;M. DE JUSTICIA Y DERECHOS HUMANOS;Gobierno nacional;;;5;1;100000;Partidas localizadas en Puno;ANEXO-5-1:58
-Puno;10;M. DE EDUCACION;Gobierno nacional;;;5;3;37703021;Partidas localizadas en Puno;ANEXO-5-1:100,102,105
-Puno;11;M. DE SALUD;Gobierno nacional;;;5;2;45000000;Partidas localizadas en Puno;ANEXO-5-2:117
-Puno;13;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;3;14717053;Partidas localizadas en Puno;ANEXO-5-3:6,8
-Puno;16;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;9;22468798;Partidas localizadas en Puno;ANEXO-5-3:31-34
-Puno;35;MINISTERIO DE COMERCIO EXTERIOR Y TURISMO;Gobierno nacional;;;5;1;7315111;Partidas localizadas en Puno;ANEXO-5-3:68
-Puno;36;MINISTERIO DE TRANSPORTES Y COMUNICACIONES;Gobierno nacional;;;5;4;117636094;Partidas localizadas en Puno;ANEXO-5-3:75-76,78
-Puno;37;MINISTERIO DE VIVIENDA, CONSTRUCCION Y SANEAMIENTO;Gobierno nacional;;;5;16;311166086;Partidas localizadas en Puno;ANEXO-5-3:91,93-95,104-107,110,112
-Puno;40;MINISTERIO DE DESARROLLO E INCLUSION SOCIAL;Gobierno nacional;;;5;1;1811768;Partidas localizadas en Puno;ANEXO-5-3:141
+Puno;003;M. DE CULTURA;Gobierno nacional;;;5;1;2000000;Partidas localizadas en Puno;ANEXO-5-1:33
+Puno;004;PODER JUDICIAL;Gobierno nacional;;;5;1;327276;Partidas localizadas en Puno;ANEXO-5-1:40
+Puno;005;M. DEL AMBIENTE;Gobierno nacional;;;5;4;9874830;Partidas localizadas en Puno;ANEXO-5-1:44
+Puno;006;M. DE JUSTICIA Y DERECHOS HUMANOS;Gobierno nacional;;;5;1;100000;Partidas localizadas en Puno;ANEXO-5-1:58
+Puno;010;M. DE EDUCACION;Gobierno nacional;;;5;10;66858509;Partidas localizadas en Puno;ANEXO-5-1:98,100-102,104-105
+Puno;011;M. DE SALUD;Gobierno nacional;;;5;4;45221201;Partidas localizadas en Puno;ANEXO-5-2:117,121
+Puno;013;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;11;29611087;Partidas localizadas en Puno;ANEXO-5-3:6-10,13
+Puno;016;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;16;28298798;Partidas localizadas en Puno;ANEXO-5-3:31-35
+Puno;018;AGROMERCADO;Gobierno nacional;;;5;1;3400000;Partidas localizadas en Puno;ANEXO-5-3:20
+Puno;035;MINISTERIO DE COMERCIO EXTERIOR Y TURISMO;Gobierno nacional;;;5;2;7715111;Partidas localizadas en Puno;ANEXO-5-3:67-68
+Puno;036;MINISTERIO DE TRANSPORTES Y COMUNICACIONES;Gobierno nacional;;;5;9;237866756;Partidas localizadas en Puno;ANEXO-5-3:75-76,78-79,82
+Puno;037;MINISTERIO DE VIVIENDA, CONSTRUCCION Y SANEAMIENTO;Gobierno nacional;;;5;63;325439385;Partidas localizadas en Puno;ANEXO-5-3:91,93-96,104-112,114
+Puno;039;MINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES;Gobierno nacional;;;5;1;233375;Partidas localizadas en Puno;ANEXO-5-3:135
+Puno;040;MINISTERIO DE DESARROLLO E INCLUSION SOCIAL;Gobierno nacional;;;5;1;1811768;Partidas localizadas en Puno;ANEXO-5-3:141
+Puno;067;SUPERINTENDENCIA NACIONAL DE LOS REGISTROS PUBLICOS;Gobierno nacional;;;5;1;202375;Partidas localizadas en Puno;ANEXO-5-1:63
+Puno;163;INSTITUTO NACIONAL DE INNOVACION AGRARIA;Gobierno nacional;;;5;2;22905662;Partidas localizadas en Puno;ANEXO-5-3:23
+Puno;241;INSTITUTO TECNOLOGICO DE LA PRODUCCION - ITP;Gobierno nacional;;;5;1;7881948;Partidas localizadas en Puno;ANEXO-5-3:130
 Puno;520;U.N. DEL ALTIPLANO;Gobierno nacional;;;5;43;286166858;Presupuesto institucional total del pliego;ANEXO-5-1:136-137
 Puno;552;U.N. DE JULIACA;Gobierno nacional;;;5;28;49055887;Presupuesto institucional total del pliego;ANEXO-5-2:67-68
 Puno;210101;MUNICIPALIDAD PROVINCIAL DE PUNO;Gobierno local;;Puno;7, 8;17;123793876;Presupuesto institucional total del pliego;"ANEXO-7-2-2:200; ANEXO-8-1:23,34,110,200; ANEXO-8-2:32,161,225,274,314"
@@ -89,114 +227,115 @@ Puno;210307;MUNICIPALIDAD DISTRITAL DE ITUATA;Gobierno local;;Ituata;7, 8;8;2066
 Puno;210308;MUNICIPALIDAD DISTRITAL DE OLLACHEA;Gobierno local;;Ollachea;7, 8;10;15398314;Presupuesto institucional total del pliego;"ANEXO-7-2-2:210-211; ANEXO-8-1:111,172; ANEXO-8-2:33,63,162"
 Puno;210309;MUNICIPALIDAD DISTRITAL DE SAN GABAN;Gobierno local;;San Gaban;7, 8;10;23594497;Presupuesto institucional total del pliego;"ANEXO-7-2-2:211; ANEXO-8-1:23,47,111,172,195,261; ANEXO-8-2:33,63,162,226,275"
 Puno;210310;MUNICIPALIDAD DISTRITAL DE USICAYOS;Gobierno local;;Usicayos;7, 8;7;17635759;Presupuesto institucional total del pliego;"ANEXO-7-2-2:211; ANEXO-8-1:111,172,187,261; ANEXO-8-2:33,162,172,226,275"
-Puno;210401;MUNICIPALIDAD PROVINCIAL DE CHUCUITO -JULI;Gobierno local;;Chucuito;7;13;53938683;Presupuesto institucional total del pliego;ANEXO-7-2-2:211-212
-Puno;210402;MUNICIPALIDAD DISTRITAL DE DESAGUADERO;Gobierno local;;Desaguadero;7;8;14393703;Presupuesto institucional total del pliego;ANEXO-7-2-2:212
-Puno;210403;MUNICIPALIDAD DISTRITAL DE HUACULLANI;Gobierno local;;Huacullani;7;7;11676562;Presupuesto institucional total del pliego;ANEXO-7-2-2:212
-Puno;210404;MUNICIPALIDAD DISTRITAL DE KELLUYO;Gobierno local;;Kelluyo;7;7;9014381;Presupuesto institucional total del pliego;ANEXO-7-2-2:212
-Puno;210405;MUNICIPALIDAD DISTRITAL DE PISACOMA;Gobierno local;;Pisacoma;7;7;14242042;Presupuesto institucional total del pliego;ANEXO-7-2-2:212-213
-Puno;210406;MUNICIPALIDAD DISTRITAL DE POMATA;Gobierno local;;Pomata;7;9;17531364;Presupuesto institucional total del pliego;ANEXO-7-2-2:213
-Puno;210407;MUNICIPALIDAD DISTRITAL DE ZEPITA;Gobierno local;;Zepita;7;7;26541158;Presupuesto institucional total del pliego;ANEXO-7-2-2:213
-Puno;210501;MUNICIPALIDAD PROVINCIAL DE EL COLLAO -ILAVE;Gobierno local;;El Collao;7;13;69248264;Presupuesto institucional total del pliego;ANEXO-7-2-2:213-214
-Puno;210502;MUNICIPALIDAD DISTRITAL DE CAPASO;Gobierno local;;Capaso;7;8;2513659;Presupuesto institucional total del pliego;ANEXO-7-2-2:214
-Puno;210503;MUNICIPALIDAD DISTRITAL DE PILCUYO;Gobierno local;;Pilcuyo;7;8;12657327;Presupuesto institucional total del pliego;ANEXO-7-2-2:214
-Puno;210504;MUNICIPALIDAD DISTRITAL DE SANTA ROSA;Gobierno local;;Santa Rosa;7;8;5247020;Presupuesto institucional total del pliego;ANEXO-7-2-2:214
-Puno;210505;MUNICIPALIDAD DISTRITAL DE CONDURIRI;Gobierno local;;Conduriri;7;6;3873823;Presupuesto institucional total del pliego;ANEXO-7-2-2:215
-Puno;210601;MUNICIPALIDAD PROVINCIAL DE HUANCANE;Gobierno local;;Huancane;7;14;30807004;Presupuesto institucional total del pliego;ANEXO-7-2-2:215
-Puno;210602;MUNICIPALIDAD DISTRITAL DE COJATA;Gobierno local;;Cojata;7;7;4956614;Presupuesto institucional total del pliego;ANEXO-7-2-2:215
-Puno;210603;MUNICIPALIDAD DISTRITAL DE HUATASANI;Gobierno local;;Huatasani;7;6;3221640;Presupuesto institucional total del pliego;ANEXO-7-2-2:215-216
-Puno;210604;MUNICIPALIDAD DISTRITAL DE INCHUPALLA;Gobierno local;;Inchupalla;7;7;3627420;Presupuesto institucional total del pliego;ANEXO-7-2-2:216
-Puno;210605;MUNICIPALIDAD DISTRITAL DE PUSI;Gobierno local;;Pusi;7;7;5111339;Presupuesto institucional total del pliego;ANEXO-7-2-2:216
-Puno;210606;MUNICIPALIDAD DISTRITAL DE ROSASPATA;Gobierno local;;Rosaspata;7;6;4419044;Presupuesto institucional total del pliego;ANEXO-7-2-2:216
-Puno;210607;MUNICIPALIDAD DISTRITAL DE TARACO;Gobierno local;;Taraco;7;7;13024512;Presupuesto institucional total del pliego;ANEXO-7-2-2:217
-Puno;210608;MUNICIPALIDAD DISTRITAL DE VILQUE CHICO;Gobierno local;;Vilque Chico;7;8;8340623;Presupuesto institucional total del pliego;ANEXO-7-2-2:217
-Puno;210701;MUNICIPALIDAD PROVINCIAL DE LAMPA;Gobierno local;;Lampa;7;13;25574044;Presupuesto institucional total del pliego;ANEXO-7-2-2:217
-Puno;210702;MUNICIPALIDAD DISTRITAL DE CABANILLA;Gobierno local;;Cabanilla;7;7;7164563;Presupuesto institucional total del pliego;ANEXO-7-2-2:217-218
-Puno;210703;MUNICIPALIDAD DISTRITAL DE CALAPUJA;Gobierno local;;Calapuja;7;6;2628456;Presupuesto institucional total del pliego;ANEXO-7-2-2:218
-Puno;210704;MUNICIPALIDAD DISTRITAL DE NICASIO;Gobierno local;;Nicasio;7;7;2836083;Presupuesto institucional total del pliego;ANEXO-7-2-2:218
-Puno;210705;MUNICIPALIDAD DISTRITAL DE OCUVIRI;Gobierno local;;Ocuviri;7;8;4676252;Presupuesto institucional total del pliego;ANEXO-7-2-2:218
-Puno;210707;MUNICIPALIDAD DISTRITAL DE PARATIA;Gobierno local;;Paratia;7;6;4219108;Presupuesto institucional total del pliego;ANEXO-7-2-2:219
-Puno;210708;MUNICIPALIDAD DISTRITAL DE PUCARA;Gobierno local;;Pucara;7;7;5844006;Presupuesto institucional total del pliego;ANEXO-7-2-2:219
-Puno;210709;MUNICIPALIDAD DISTRITAL DE SANTA LUCIA;Gobierno local;;Santa Lucia;7;8;9294890;Presupuesto institucional total del pliego;ANEXO-7-2-2:219
-Puno;210710;MUNICIPALIDAD DISTRITAL DE VILAVILA;Gobierno local;;Vilavila;7;6;2170227;Presupuesto institucional total del pliego;ANEXO-7-2-2:220
-Puno;210801;MUNICIPALIDAD PROVINCIAL DE MELGAR -AYAVIRI;Gobierno local;;Melgar;7;13;39215614;Presupuesto institucional total del pliego;ANEXO-7-2-2:220
-Puno;210802;MUNICIPALIDAD DISTRITAL DE ANTAUTA;Gobierno local;;Antauta;7;10;33802698;Presupuesto institucional total del pliego;ANEXO-7-2-2:220
-Puno;210803;MUNICIPALIDAD DISTRITAL DE CUPI;Gobierno local;;Cupi;7;7;3330634;Presupuesto institucional total del pliego;ANEXO-7-2-2:220-221
-Puno;210804;MUNICIPALIDAD DISTRITAL DE LLALLI;Gobierno local;;Llalli;7;7;2886597;Presupuesto institucional total del pliego;ANEXO-7-2-2:221
-Puno;210805;MUNICIPALIDAD DISTRITAL DE MACARI;Gobierno local;;Macari;7;9;9936933;Presupuesto institucional total del pliego;ANEXO-7-2-2:221
-Puno;210806;MUNICIPALIDAD DISTRITAL DE NUÑOA;Gobierno local;;Nunoa;7;11;12537815;Presupuesto institucional total del pliego;ANEXO-7-2-2:221
-Puno;210807;MUNICIPALIDAD DISTRITAL DE ORURILLO;Gobierno local;;Orurillo;7;10;9583989;Presupuesto institucional total del pliego;ANEXO-7-2-2:222
-Puno;210808;MUNICIPALIDAD DISTRITAL DE SANTA ROSA;Gobierno local;;Santa Rosa;7;6;8699103;Presupuesto institucional total del pliego;ANEXO-7-2-2:222
-Puno;210809;MUNICIPALIDAD DISTRITAL DE UMACHIRI;Gobierno local;;Umachiri;7;7;5534040;Presupuesto institucional total del pliego;ANEXO-7-2-2:222
-Puno;210901;MUNICIPALIDAD PROVINCIAL DE MOHO;Gobierno local;;Moho;7;8;13379103;Presupuesto institucional total del pliego;ANEXO-7-2-2:222-223
-Puno;210902;MUNICIPALIDAD DISTRITAL DE CONIMA;Gobierno local;;Conima;7;7;2916709;Presupuesto institucional total del pliego;ANEXO-7-2-2:223
-Puno;210903;MUNICIPALIDAD DISTRITAL DE HUAYRAPATA;Gobierno local;;Huayrapata;7;6;2375299;Presupuesto institucional total del pliego;ANEXO-7-2-2:223
-Puno;210904;MUNICIPALIDAD DISTRITAL DE TILALI;Gobierno local;;Tilali;7;6;2330972;Presupuesto institucional total del pliego;ANEXO-7-2-2:223
-Puno;211001;MUNICIPALIDAD PROVINCIAL DE SAN ANTONIO DE PUTINA -PUTINA;Gobierno local;;San Antonio De Putina;7;11;30721882;Presupuesto institucional total del pliego;ANEXO-7-2-2:224
-Puno;211002;MUNICIPALIDAD DISTRITAL DE ANANEA;Gobierno local;;Ananea;7;10;17829869;Presupuesto institucional total del pliego;ANEXO-7-2-2:224
-Puno;211003;MUNICIPALIDAD DISTRITAL DE PEDRO VILCA APAZA;Gobierno local;;Pedro Vilca Apaza;7;7;3817700;Presupuesto institucional total del pliego;ANEXO-7-2-2:224
-Puno;211004;MUNICIPALIDAD DISTRITAL DE QUILCAPUNCU;Gobierno local;;Quilcapuncu;7;7;7814290;Presupuesto institucional total del pliego;ANEXO-7-2-2:224-225
-Puno;211005;MUNICIPALIDAD DISTRITAL DE SIMA;Gobierno local;;Sima;7;6;3782802;Presupuesto institucional total del pliego;ANEXO-7-2-2:225
-Puno;211101;MUNICIPALIDAD PROVINCIAL DE SAN ROMAN -JULIACA;Gobierno local;;San Roman;7;14;244102118;Presupuesto institucional total del pliego;ANEXO-7-2-2:225
-Puno;211102;MUNICIPALIDAD DISTRITAL DE CABANA;Gobierno local;;Cabana;7;6;2577213;Presupuesto institucional total del pliego;ANEXO-7-2-2:225
-Puno;211103;MUNICIPALIDAD DISTRITAL DE CABANILLAS;Gobierno local;;Cabanillas;7;10;11139432;Presupuesto institucional total del pliego;ANEXO-7-2-2:226
-Puno;211104;MUNICIPALIDAD DISTRITAL DE CARACOTO;Gobierno local;;Caracoto;7;10;10811966;Presupuesto institucional total del pliego;ANEXO-7-2-2:226
-Puno;211105;MUNICIPALIDAD DISTRITAL DE SAN MIGUEL;Gobierno local;;San Miguel;7;11;45872867;Presupuesto institucional total del pliego;ANEXO-7-2-2:226
-Puno;211201;MUNICIPALIDAD PROVINCIAL DE SANDIA;Gobierno local;;Sandia;7;12;30480861;Presupuesto institucional total del pliego;ANEXO-7-2-2:227
-Puno;211202;MUNICIPALIDAD DISTRITAL DE CUYOCUYO;Gobierno local;;Cuyocuyo;7;6;8575824;Presupuesto institucional total del pliego;ANEXO-7-2-2:227
-Puno;211203;MUNICIPALIDAD DISTRITAL DE LIMBANI;Gobierno local;;Limbani;7;6;4998947;Presupuesto institucional total del pliego;ANEXO-7-2-2:227
-Puno;211204;MUNICIPALIDAD DISTRITAL DE PATAMBUCO;Gobierno local;;Patambuco;7;8;6815670;Presupuesto institucional total del pliego;ANEXO-7-2-2:227-228
-Puno;211205;MUNICIPALIDAD DISTRITAL DE PHARA;Gobierno local;;Phara;7;6;9835894;Presupuesto institucional total del pliego;ANEXO-7-2-2:228
-Puno;211206;MUNICIPALIDAD DISTRITAL DE QUIACA;Gobierno local;;Quiaca;7;7;6569090;Presupuesto institucional total del pliego;ANEXO-7-2-2:228
-Puno;211207;MUNICIPALIDAD DISTRITAL DE SAN JUAN DEL ORO;Gobierno local;;San Juan Del Oro;7;6;3602085;Presupuesto institucional total del pliego;ANEXO-7-2-2:228
-Puno;211208;MUNICIPALIDAD DISTRITAL DE YANAHUAYA;Gobierno local;;Yanahuaya;7;6;2862897;Presupuesto institucional total del pliego;ANEXO-7-2-2:228-229
-Puno;211209;MUNICIPALIDAD DISTRITAL DE ALTO INAMBARI;Gobierno local;;Alto Inambari;7;7;10917465;Presupuesto institucional total del pliego;ANEXO-7-2-2:229
-Puno;211210;MUNICIPALIDAD DISTRITAL DE SAN PEDRO DE PUTINA PUNCO;Gobierno local;;San Pedro De Putina Punco;7;7;14991432;Presupuesto institucional total del pliego;ANEXO-7-2-2:229
-Puno;211301;MUNICIPALIDAD PROVINCIAL DE YUNGUYO;Gobierno local;;Yunguyo;7;15;26576242;Presupuesto institucional total del pliego;ANEXO-7-2-2:229
-Puno;211302;MUNICIPALIDAD DISTRITAL DE ANAPIA;Gobierno local;;Anapia;7;5;1564159;Presupuesto institucional total del pliego;ANEXO-7-2-2:230
-Puno;211303;MUNICIPALIDAD DISTRITAL DE COPAN';Gobierno local;;Copan';7;7;4930784;Presupuesto institucional total del pliego;ANEXO-7-2-2:230
-Puno;211304;MUNICIPALIDAD DISTRITAL DE CUTURAPI;Gobierno local;;Cuturapi;7;6;1593793;Presupuesto institucional total del pliego;ANEXO-7-2-2:230
-Puno;211305;MUNICIPALIDAD DISTRITAL DE OLLARAYA;Gobierno local;;Ollaraya;7;7;2447462;Presupuesto institucional total del pliego;ANEXO-7-2-2:230
-Puno;211306;MUNICIPALIDAD DISTRITAL DE TINICACHI;Gobierno local;;Tinicachi;7;6;1324965;Presupuesto institucional total del pliego;ANEXO-7-2-2:231
-Puno;211307;MUNICIPALIDAD DISTRITAL DE UNICACHI;Gobierno local;;Unicachi;7;6;1575204;Presupuesto institucional total del pliego;ANEXO-7-2-2:231
-Tacna;460;Gobierno Regional del Departamento de Tacna;Gobierno regional;;;6, 8;353;986582046;Presupuesto institucional total del pliego;"ANEXO-6-2:154-170; ANEXO-8-1:6,27,37,52,56,237,267,269,306; ANEXO-8-2:59,118,216,263,280,284,286,289,304"
-Tacna;5;M. DEL AMBIENTE;Gobierno nacional;;;5;3;29080216;Partidas localizadas en Tacna;ANEXO-5-1-3:44
-Tacna;7;M. DEL INTERIOR;Gobierno nacional;;;A;1;4000;Partidas localizadas en Tacna;ANEXO-A-B-C:3
-Tacna;10;M. DE EDUCACION;Gobierno nacional;;;5;1;7514296;Partidas localizadas en Tacna;ANEXO-5-1-3:97
-Tacna;11;M. DE SALUD;Gobierno nacional;;;5;2;203505;Partidas localizadas en Tacna;ANEXO-5-2-3:121-122
-Tacna;13;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;1;883542;Partidas localizadas en Tacna;ANEXO-5-3-3:12
-Tacna;16;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;2;5026360;Partidas localizadas en Tacna;ANEXO-5-3-3:30,35
-Tacna;22;MINISTERIO PUBLICO;Gobierno nacional;;;5;1;16672438;Partidas localizadas en Tacna;ANEXO-5-3-3:46
-Tacna;36;MINISTERIO DE TRANSPORTES Y COMUNICACIONES;Gobierno nacional;;;5;6;128835265;Partidas localizadas en Tacna;ANEXO-5-3-3:74,76,80-81
-Tacna;37;MINISTERIO DE VIVIENDA, CONSTRUCCION Y SANEAMIENTO;Gobierno nacional;;;5;2;1197662;Partidas localizadas en Tacna;ANEXO-5-3-3:92,112
-Tacna;67;SUPERINTENDENCIA NACIONAL DE LOS REGISTROS PUBLICOS;Gobierno nacional;;;5;1;404750;Partidas localizadas en Tacna;ANEXO-5-1-3:63
-Tacna;163;INSTITUTO NACIONAL DE INNOVACION AGRARIA;Gobierno nacional;;;5;1;18000000;Partidas localizadas en Tacna;ANEXO-5-3-3:23
-Tacna;243;AUTORIDAD NACIONAL DE SANIDAD E INOCUIDAD EN PESCA Y ACUICULTURA - SANIPES;Gobierno nacional;;;5;1;4709423;Partidas localizadas en Tacna;ANEXO-5-3-3:132
-Tacna;531;U.N. Jorge Basadre Grohmann;Gobierno nacional;;;5;56;176845803;Presupuesto institucional total del pliego;ANEXO-5-2-3:20-22
-Tacna;230101;MUNICIPALIDAD PROVINCIAL DE TACNA;Gobierno local;Tacna;Tacna;7, 8;15;243846306;Presupuesto institucional total del pliego;"ANEXO-7-2-2:253; ANEXO-8-1:34,116,176,261; ANEXO-8-2:37,277"
-Tacna;230102;MUNICIPALIDAD DISTRITAL DE ALTO DE LA ALIANZA;Gobierno local;Tacna;Alto de la Alianza;7, 8;10;62915565;Presupuesto institucional total del pliego;"ANEXO-7-2-2:253-254; ANEXO-8-1:24,116,176; ANEXO-8-2:37,63,166,277,315"
-Tacna;230103;MUNICIPALIDAD DISTRITAL DE CALANA;Gobierno local;Tacna;Calana;7, 8;10;8694914;Presupuesto institucional total del pliego;"ANEXO-7-2-2:254; ANEXO-8-1:116,176; ANEXO-8-2:37,64,166"
-Tacna;230104;MUNICIPALIDAD DISTRITAL DE CIUDAD NUEVA;Gobierno local;Tacna;Ciudad Nueva;7, 8;9;43052443;Presupuesto institucional total del pliego;"ANEXO-7-2-2:254; ANEXO-8-1:24,116,176; ANEXO-8-2:37,166,277,315"
-Tacna;230105;MUNICIPALIDAD DISTRITAL DE INCLAN;Gobierno local;Tacna;Inclán;7, 8;10;12260018;Presupuesto institucional total del pliego;"ANEXO-7-2-2:254; ANEXO-8-1:116,176,261; ANEXO-8-2:37,166,277,315"
-Tacna;230106;MUNICIPALIDAD DISTRITAL DE PACHIA;Gobierno local;Tacna;Pachía;7, 8;11;9085567;Presupuesto institucional total del pliego;"ANEXO-7-2-2:254-255; ANEXO-8-1:116,176; ANEXO-8-2:37,64,167"
-Tacna;230107;MUNICIPALIDAD DISTRITAL DE PALCA;Gobierno local;Tacna;Palca;7, 8;10;18638751;Presupuesto institucional total del pliego;"ANEXO-7-2-2:255; ANEXO-8-1:24,116,176,261; ANEXO-8-2:37,167"
-Tacna;230108;MUNICIPALIDAD DISTRITAL DE POCOLLAY;Gobierno local;Tacna;Pocollay;7, 8;10;32381597;Presupuesto institucional total del pliego;"ANEXO-7-2-2:255; ANEXO-8-1:116,176; ANEXO-8-2:38,315"
-Tacna;230109;MUNICIPALIDAD DISTRITAL DE SAMA;Gobierno local;Tacna;Sama;7, 8;11;19668964;Presupuesto institucional total del pliego;"ANEXO-7-2-2:255-256; ANEXO-8-1:116,176; ANEXO-8-2:38"
-Tacna;230110;MUNICIPALIDAD DISTRITAL DE CORONEL GREGORIO ALBARRACIN LANCHIPA;Gobierno local;Tacna;Coronel Gregorio Albarracín Lanchipa;7, 8;12;218117233;Presupuesto institucional total del pliego;"ANEXO-7-2-2:256; ANEXO-8-1:116,176; ANEXO-8-2:38,64,277,315"
-Tacna;230111;MUNICIPALIDAD DISTRITAL DE LA YARADA LOS PALOS;Gobierno local;Tacna;La Yarada Los Palos;7, 8;7;37771651;Presupuesto institucional total del pliego;"ANEXO-7-2-2:256; ANEXO-8-1:116,176; ANEXO-8-2:38,167,227"
-Tacna;230201;MUNICIPALIDAD PROVINCIAL DE CANDARAVE;Gobierno local;Candarave;Candarave;7, 8;11;9691694;Presupuesto institucional total del pliego;"ANEXO-7-2-2:256; ANEXO-8-1:34,116,176,248; ANEXO-8-2:38,167"
-Tacna;230202;MUNICIPALIDAD DISTRITAL DE CAIRANI;Gobierno local;Candarave;Cairani;7, 8;9;2401470;Presupuesto institucional total del pliego;"ANEXO-7-2-2:257; ANEXO-8-1:116,176,249; ANEXO-8-2:38,167"
-Tacna;230203;MUNICIPALIDAD DISTRITAL DE CAMILACA;Gobierno local;Candarave;Camilaca;7, 8;7;5210672;Presupuesto institucional total del pliego;"ANEXO-7-2-2:257; ANEXO-8-1:116,176,249; ANEXO-8-2:38,167"
-Tacna;230204;MUNICIPALIDAD DISTRITAL DE CURIBAYA;Gobierno local;Candarave;Curibaya;7, 8;7;3237864;Presupuesto institucional total del pliego;"ANEXO-7-2-2:257; ANEXO-8-1:116,249"
-Tacna;230205;MUNICIPALIDAD DISTRITAL DE HUANUARA;Gobierno local;Candarave;Huanuara;7, 8;7;2223278;Presupuesto institucional total del pliego;"ANEXO-7-2-2:257; ANEXO-8-1:176; ANEXO-8-2:167"
-Tacna;230206;MUNICIPALIDAD DISTRITAL DE QUILAHUANI;Gobierno local;Candarave;Quilahuani;7, 8;10;3366370;Presupuesto institucional total del pliego;"ANEXO-7-2-2:258; ANEXO-8-1:116,176,249; ANEXO-8-2:38,167"
-Tacna;230301;MUNICIPALIDAD PROVINCIAL DE JORGE BASADRE -LOCUMBA;Gobierno local;Jorge Basadre;Locumba;7, 8;13;111516787;Presupuesto institucional total del pliego;"ANEXO-7-2-2:258; ANEXO-8-1:34,116,176,249; ANEXO-8-2:167,227,277"
-Tacna;230302;MUNICIPALIDAD DISTRITAL DE ILABAYA;Gobierno local;Jorge Basadre;Ilabaya;7, 8;10;234843303;Presupuesto institucional total del pliego;"ANEXO-7-2-2:258; ANEXO-8-1:116,261; ANEXO-8-2:38,167,227"
-Tacna;230303;MUNICIPALIDAD DISTRITAL DE ITE;Gobierno local;Jorge Basadre;Ite;7, 8;9;85466834;Presupuesto institucional total del pliego;"ANEXO-7-2-2:258-259; ANEXO-8-1:24,116,176,195,249,261,263; ANEXO-8-2:38,64,167,227,230,277,294"
-Tacna;230401;MUNICIPALIDAD PROVINCIAL DE TARATA;Gobierno local;Tarata;Tarata;7, 8;13;7918264;Presupuesto institucional total del pliego;"ANEXO-7-2-2:259; ANEXO-8-1:34,116,177,188,195; ANEXO-8-2:38,167"
-Tacna;230402;MUNICIPALIDAD DISTRITAL DE CHUCATAMANI;Gobierno local;Tarata;Chucatamani;7, 8;6;2129753;Presupuesto institucional total del pliego;"ANEXO-7-2-2:259; ANEXO-8-1:177,196,249; ANEXO-8-2:38,167"
-Tacna;230403;MUNICIPALIDAD DISTRITAL DE ESTIQUE;Gobierno local;Tarata;Estique;7, 8;6;1604634;Presupuesto institucional total del pliego;"ANEXO-7-2-2:259-260; ANEXO-8-1:116,177,249; ANEXO-8-2:38,167"
-Tacna;230404;MUNICIPALIDAD DISTRITAL DE ESTIQUE-PAMPA;Gobierno local;Tarata;Estique-Pampa;7, 8;6;1522550;Presupuesto institucional total del pliego;"ANEXO-7-2-2:260; ANEXO-8-1:116,177,249; ANEXO-8-2:38,167"
-Tacna;230405;MUNICIPALIDAD DISTRITAL DE SITAJARA;Gobierno local;Tarata;Sitajara;7, 8;6;1766021;Presupuesto institucional total del pliego;"ANEXO-7-2-2:260; ANEXO-8-1:116,177,249; ANEXO-8-2:38,167"
-Tacna;230406;MUNICIPALIDAD DISTRITAL DE SUSAPAYA;Gobierno local;Tarata;Susapaya;7, 8;7;2337455;Presupuesto institucional total del pliego;"ANEXO-7-2-2:260; ANEXO-8-1:116,177,249; ANEXO-8-2:38,167"
-Tacna;230407;MUNICIPALIDAD DISTRITAL DE TARUCACHI;Gobierno local;Tarata;Tarucachi;7, 8;5;2110739;Presupuesto institucional total del pliego;"ANEXO-7-2-2:260-261; ANEXO-8-1:116,177; ANEXO-8-2:38,64,167"
-Tacna;230408;MUNICIPALIDAD DISTRITAL DE TICACO;Gobierno local;Tarata;Ticaco;7, 8;6;3070847;Presupuesto institucional total del pliego;"ANEXO-7-2-2:261; ANEXO-8-1:177; ANEXO-8-2:167"
+Puno;210401;MUNICIPALIDAD PROVINCIAL DE CHUCUITO -JULI;Gobierno local;;Chucuito;7, 8;13;53938683;Presupuesto institucional total del pliego;"ANEXO-7-2-2:211-212; ANEXO-8-1:34,111,172,187,195; ANEXO-8-2:33,63,162,275"
+Puno;210402;MUNICIPALIDAD DISTRITAL DE DESAGUADERO;Gobierno local;;Desaguadero;7, 8;8;14393703;Presupuesto institucional total del pliego;"ANEXO-7-2-2:212; ANEXO-8-1:111,172,187; ANEXO-8-2:33,162,226,275"
+Puno;210403;MUNICIPALIDAD DISTRITAL DE HUACULLANI;Gobierno local;;Huacullani;7, 8;7;11676562;Presupuesto institucional total del pliego;"ANEXO-7-2-2:212; ANEXO-8-1:111,172,187; ANEXO-8-2:33,162,275"
+Puno;210404;MUNICIPALIDAD DISTRITAL DE KELLUYO;Gobierno local;;Kelluyo;7, 8;7;9014381;Presupuesto institucional total del pliego;"ANEXO-7-2-2:212; ANEXO-8-1:111,172,187; ANEXO-8-2:33,162,275"
+Puno;210405;MUNICIPALIDAD DISTRITAL DE PISACOMA;Gobierno local;;Pisacoma;7, 8;7;14242042;Presupuesto institucional total del pliego;"ANEXO-7-2-2:212-213; ANEXO-8-1:23,111,172,187; ANEXO-8-2:33,162,275"
+Puno;210406;MUNICIPALIDAD DISTRITAL DE POMATA;Gobierno local;;Pomata;7, 8;9;17531364;Presupuesto institucional total del pliego;"ANEXO-7-2-2:213; ANEXO-8-1:23,111,172,187; ANEXO-8-2:33,162,275"
+Puno;210407;MUNICIPALIDAD DISTRITAL DE ZEPITA;Gobierno local;;Zepita;7, 8;7;26541158;Presupuesto institucional total del pliego;"ANEXO-7-2-2:213; ANEXO-8-1:23,112,172,187,195; ANEXO-8-2:33,162,172,226,236,275,314"
+Puno;210501;MUNICIPALIDAD PROVINCIAL DE EL COLLAO -ILAVE;Gobierno local;;El Collao;7, 8;13;69248264;Presupuesto institucional total del pliego;"ANEXO-7-2-2:213-214; ANEXO-8-1:23,34,47,112,172; ANEXO-8-2:33,162,275"
+Puno;210502;MUNICIPALIDAD DISTRITAL DE CAPASO;Gobierno local;;Capaso;7, 8;8;2513659;Presupuesto institucional total del pliego;"ANEXO-7-2-2:214; ANEXO-8-1:112,172,187; ANEXO-8-2:33,162,275"
+Puno;210503;MUNICIPALIDAD DISTRITAL DE PILCUYO;Gobierno local;;Pilcuyo;7, 8;8;12657327;Presupuesto institucional total del pliego;"ANEXO-7-2-2:214; ANEXO-8-1:23,112,172,187; ANEXO-8-2:33,162,275"
+Puno;210504;MUNICIPALIDAD DISTRITAL DE SANTA ROSA;Gobierno local;;Santa Rosa;7, 8;8;5247020;Presupuesto institucional total del pliego;"ANEXO-7-2-2:214; ANEXO-8-1:112,172,187; ANEXO-8-2:34,163,275"
+Puno;210505;MUNICIPALIDAD DISTRITAL DE CONDURIRI;Gobierno local;;Conduriri;7, 8;6;3873823;Presupuesto institucional total del pliego;"ANEXO-7-2-2:215; ANEXO-8-1:112,172; ANEXO-8-2:34,163,276"
+Puno;210601;MUNICIPALIDAD PROVINCIAL DE HUANCANE;Gobierno local;;Huancane;7, 8;14;30807004;Presupuesto institucional total del pliego;"ANEXO-7-2-2:215; ANEXO-8-1:34,47,112,172,195; ANEXO-8-2:34,163,226,276,294"
+Puno;210602;MUNICIPALIDAD DISTRITAL DE COJATA;Gobierno local;;Cojata;7, 8;7;4956614;Presupuesto institucional total del pliego;"ANEXO-7-2-2:215; ANEXO-8-1:23,112,172; ANEXO-8-2:34,163,226,276"
+Puno;210603;MUNICIPALIDAD DISTRITAL DE HUATASANI;Gobierno local;;Huatasani;7, 8;6;3221640;Presupuesto institucional total del pliego;"ANEXO-7-2-2:215-216; ANEXO-8-1:112,172; ANEXO-8-2:34,163,276"
+Puno;210604;MUNICIPALIDAD DISTRITAL DE INCHUPALLA;Gobierno local;;Inchupalla;7, 8;7;3627420;Presupuesto institucional total del pliego;"ANEXO-7-2-2:216; ANEXO-8-1:112; ANEXO-8-2:34,163"
+Puno;210605;MUNICIPALIDAD DISTRITAL DE PUSI;Gobierno local;;Pusi;7, 8;7;5111339;Presupuesto institucional total del pliego;"ANEXO-7-2-2:216; ANEXO-8-1:112,172,187; ANEXO-8-2:34,163"
+Puno;210606;MUNICIPALIDAD DISTRITAL DE ROSASPATA;Gobierno local;;Rosaspata;7, 8;6;4419044;Presupuesto institucional total del pliego;"ANEXO-7-2-2:216; ANEXO-8-1:112,172,187; ANEXO-8-2:34,163,276"
+Puno;210607;MUNICIPALIDAD DISTRITAL DE TARACO;Gobierno local;;Taraco;7, 8;7;13024512;Presupuesto institucional total del pliego;"ANEXO-7-2-2:217; ANEXO-8-1:23,112,172; ANEXO-8-2:34,163,276"
+Puno;210608;MUNICIPALIDAD DISTRITAL DE VILQUE CHICO;Gobierno local;;Vilque Chico;7, 8;8;8340623;Presupuesto institucional total del pliego;"ANEXO-7-2-2:217; ANEXO-8-1:23,112,172; ANEXO-8-2:34,163,226,276,314"
+Puno;210701;MUNICIPALIDAD PROVINCIAL DE LAMPA;Gobierno local;;Lampa;7, 8;13;25574044;Presupuesto institucional total del pliego;"ANEXO-7-2-2:217; ANEXO-8-1:34,47,112,172,188; ANEXO-8-2:34,163,226,276"
+Puno;210702;MUNICIPALIDAD DISTRITAL DE CABANILLA;Gobierno local;;Cabanilla;7, 8;7;7164563;Presupuesto institucional total del pliego;"ANEXO-7-2-2:217-218; ANEXO-8-1:112,172; ANEXO-8-2:34,163,276"
+Puno;210703;MUNICIPALIDAD DISTRITAL DE CALAPUJA;Gobierno local;;Calapuja;7, 8;6;2628456;Presupuesto institucional total del pliego;"ANEXO-7-2-2:218; ANEXO-8-1:23,112,172,188,195; ANEXO-8-2:34,163,276"
+Puno;210704;MUNICIPALIDAD DISTRITAL DE NICASIO;Gobierno local;;Nicasio;7, 8;7;2836083;Presupuesto institucional total del pliego;"ANEXO-7-2-2:218; ANEXO-8-1:23,112,172,188; ANEXO-8-2:34,63,163,276"
+Puno;210705;MUNICIPALIDAD DISTRITAL DE OCUVIRI;Gobierno local;;Ocuviri;7, 8;8;4676252;Presupuesto institucional total del pliego;"ANEXO-7-2-2:218; ANEXO-8-1:112,172,188; ANEXO-8-2:34,163,276"
+Puno;210706;MUNICIPALIDAD DISTRITAL DE PALCA;Gobierno local;;Palca;8;0;0;Presupuesto institucional total del pliego;"ANEXO-8-1:112,172,188; ANEXO-8-2:34,163,276"
+Puno;210707;MUNICIPALIDAD DISTRITAL DE PARATIA;Gobierno local;;Paratia;7, 8;6;4219108;Presupuesto institucional total del pliego;"ANEXO-7-2-2:219; ANEXO-8-1:112,172,188; ANEXO-8-2:34,163,172,276"
+Puno;210708;MUNICIPALIDAD DISTRITAL DE PUCARA;Gobierno local;;Pucara;7, 8;7;5844006;Presupuesto institucional total del pliego;"ANEXO-7-2-2:219; ANEXO-8-1:23,112,172; ANEXO-8-2:34,163,172,276"
+Puno;210709;MUNICIPALIDAD DISTRITAL DE SANTA LUCIA;Gobierno local;;Santa Lucia;7, 8;8;9294890;Presupuesto institucional total del pliego;"ANEXO-7-2-2:219; ANEXO-8-1:112,172,188; ANEXO-8-2:34,163,276"
+Puno;210710;MUNICIPALIDAD DISTRITAL DE VILAVILA;Gobierno local;;Vilavila;7, 8;6;2170227;Presupuesto institucional total del pliego;"ANEXO-7-2-2:220; ANEXO-8-1:112,172; ANEXO-8-2:34,163,276"
+Puno;210801;MUNICIPALIDAD PROVINCIAL DE MELGAR -AYAVIRI;Gobierno local;;Melgar;7, 8;13;39215614;Presupuesto institucional total del pliego;"ANEXO-7-2-2:220; ANEXO-8-1:34,47,112,173,200,248; ANEXO-8-2:34,163,276,314"
+Puno;210802;MUNICIPALIDAD DISTRITAL DE ANTAUTA;Gobierno local;;Antauta;7, 8;10;33802698;Presupuesto institucional total del pliego;"ANEXO-7-2-2:220; ANEXO-8-1:112,173; ANEXO-8-2:34,163,226"
+Puno;210803;MUNICIPALIDAD DISTRITAL DE CUPI;Gobierno local;;Cupi;7, 8;7;3330634;Presupuesto institucional total del pliego;"ANEXO-7-2-2:220-221; ANEXO-8-1:112,173; ANEXO-8-2:34,163,276"
+Puno;210804;MUNICIPALIDAD DISTRITAL DE LLALLI;Gobierno local;;Llalli;7, 8;7;2886597;Presupuesto institucional total del pliego;"ANEXO-7-2-2:221; ANEXO-8-1:112,173,188; ANEXO-8-2:34,163,226,276"
+Puno;210805;MUNICIPALIDAD DISTRITAL DE MACARI;Gobierno local;;Macari;7, 8;9;9936933;Presupuesto institucional total del pliego;"ANEXO-7-2-2:221; ANEXO-8-1:112,173; ANEXO-8-2:34,163,226,276,314"
+Puno;210806;MUNICIPALIDAD DISTRITAL DE NUÑOA;Gobierno local;;Nunoa;7, 8;11;12537815;Presupuesto institucional total del pliego;"ANEXO-7-2-2:221; ANEXO-8-1:112,173; ANEXO-8-2:34,163,315"
+Puno;210807;MUNICIPALIDAD DISTRITAL DE ORURILLO;Gobierno local;;Orurillo;7, 8;10;9583989;Presupuesto institucional total del pliego;"ANEXO-7-2-2:222; ANEXO-8-1:23,112,173; ANEXO-8-2:34,163,276"
+Puno;210808;MUNICIPALIDAD DISTRITAL DE SANTA ROSA;Gobierno local;;Santa Rosa;7, 8;6;8699103;Presupuesto institucional total del pliego;"ANEXO-7-2-2:222; ANEXO-8-1:112,173; ANEXO-8-2:34,163,226,276"
+Puno;210809;MUNICIPALIDAD DISTRITAL DE UMACHIRI;Gobierno local;;Umachiri;7, 8;7;5534040;Presupuesto institucional total del pliego;"ANEXO-7-2-2:222; ANEXO-8-1:112,173; ANEXO-8-2:34,163,276"
+Puno;210901;MUNICIPALIDAD PROVINCIAL DE MOHO;Gobierno local;;Moho;7, 8;8;13379103;Presupuesto institucional total del pliego;"ANEXO-7-2-2:222-223; ANEXO-8-1:34,112,173; ANEXO-8-2:34,163,276,315"
+Puno;210902;MUNICIPALIDAD DISTRITAL DE CONIMA;Gobierno local;;Conima;7, 8;7;2916709;Presupuesto institucional total del pliego;"ANEXO-7-2-2:223; ANEXO-8-1:23,113,173; ANEXO-8-2:34,163,226,276"
+Puno;210903;MUNICIPALIDAD DISTRITAL DE HUAYRAPATA;Gobierno local;;Huayrapata;7, 8;6;2375299;Presupuesto institucional total del pliego;"ANEXO-7-2-2:223; ANEXO-8-1:113,173,188,195; ANEXO-8-2:34,163"
+Puno;210904;MUNICIPALIDAD DISTRITAL DE TILALI;Gobierno local;;Tilali;7, 8;6;2330972;Presupuesto institucional total del pliego;"ANEXO-7-2-2:223; ANEXO-8-1:113,173; ANEXO-8-2:34,163,226,276"
+Puno;211001;MUNICIPALIDAD PROVINCIAL DE SAN ANTONIO DE PUTINA -PUTINA;Gobierno local;;San Antonio De Putina;7, 8;11;30721882;Presupuesto institucional total del pliego;"ANEXO-7-2-2:224; ANEXO-8-1:34,113,173,188,195,261; ANEXO-8-2:34,163,226,276"
+Puno;211002;MUNICIPALIDAD DISTRITAL DE ANANEA;Gobierno local;;Ananea;7, 8;10;17829869;Presupuesto institucional total del pliego;"ANEXO-7-2-2:224; ANEXO-8-1:113,173,188; ANEXO-8-2:35,164,315"
+Puno;211003;MUNICIPALIDAD DISTRITAL DE PEDRO VILCA APAZA;Gobierno local;;Pedro Vilca Apaza;7, 8;7;3817700;Presupuesto institucional total del pliego;"ANEXO-7-2-2:224; ANEXO-8-1:23,113,173; ANEXO-8-2:35,164,276"
+Puno;211004;MUNICIPALIDAD DISTRITAL DE QUILCAPUNCU;Gobierno local;;Quilcapuncu;7, 8;7;7814290;Presupuesto institucional total del pliego;"ANEXO-7-2-2:224-225; ANEXO-8-1:113,173,188,195,248; ANEXO-8-2:35,164,276"
+Puno;211005;MUNICIPALIDAD DISTRITAL DE SIMA;Gobierno local;;Sima;7, 8;6;3782802;Presupuesto institucional total del pliego;"ANEXO-7-2-2:225; ANEXO-8-1:113,173; ANEXO-8-2:35,164,276"
+Puno;211101;MUNICIPALIDAD PROVINCIAL DE SAN ROMAN -JULIACA;Gobierno local;;San Roman;7, 8;14;244102118;Presupuesto institucional total del pliego;"ANEXO-7-2-2:225; ANEXO-8-1:23,34,47,113,173; ANEXO-8-2:35,164,226,276"
+Puno;211102;MUNICIPALIDAD DISTRITAL DE CABANA;Gobierno local;;Cabana;7, 8;7;9264841;Presupuesto institucional total del pliego;"ANEXO-7-2-2:225-226; ANEXO-8-1:23,113,173,261; ANEXO-8-2:35,164,226,276"
+Puno;211103;MUNICIPALIDAD DISTRITAL DE CABANILLAS;Gobierno local;;Cabanillas;7, 8;10;11139432;Presupuesto institucional total del pliego;"ANEXO-7-2-2:226; ANEXO-8-1:113,173; ANEXO-8-2:35,164,276"
+Puno;211104;MUNICIPALIDAD DISTRITAL DE CARACOTO;Gobierno local;;Caracoto;7, 8;10;10811966;Presupuesto institucional total del pliego;"ANEXO-7-2-2:226; ANEXO-8-1:113,173,188,248; ANEXO-8-2:35,164,277"
+Puno;211105;MUNICIPALIDAD DISTRITAL DE SAN MIGUEL;Gobierno local;;San Miguel;7, 8;11;45872867;Presupuesto institucional total del pliego;"ANEXO-7-2-2:226; ANEXO-8-1:23,47,113,173; ANEXO-8-2:35,164,277,294"
+Puno;211201;MUNICIPALIDAD PROVINCIAL DE SANDIA;Gobierno local;;Sandia;7, 8;12;30480861;Presupuesto institucional total del pliego;"ANEXO-7-2-2:227; ANEXO-8-1:24,34,113,173,188,195,248,261; ANEXO-8-2:35,164,226,277,315"
+Puno;211202;MUNICIPALIDAD DISTRITAL DE CUYOCUYO;Gobierno local;;Cuyocuyo;7, 8;6;8575824;Presupuesto institucional total del pliego;"ANEXO-7-2-2:227; ANEXO-8-1:113,173; ANEXO-8-2:35,164,277,315"
+Puno;211203;MUNICIPALIDAD DISTRITAL DE LIMBANI;Gobierno local;;Limbani;7, 8;6;4998947;Presupuesto institucional total del pliego;"ANEXO-7-2-2:227; ANEXO-8-1:113,173; ANEXO-8-2:35,164"
+Puno;211204;MUNICIPALIDAD DISTRITAL DE PATAMBUCO;Gobierno local;;Patambuco;7, 8;8;6815670;Presupuesto institucional total del pliego;"ANEXO-7-2-2:227-228; ANEXO-8-1:113,173; ANEXO-8-2:35,164"
+Puno;211205;MUNICIPALIDAD DISTRITAL DE PHARA;Gobierno local;;Phara;7, 8;6;9835894;Presupuesto institucional total del pliego;"ANEXO-7-2-2:228; ANEXO-8-1:113,173; ANEXO-8-2:35,164"
+Puno;211206;MUNICIPALIDAD DISTRITAL DE QUIACA;Gobierno local;;Quiaca;7, 8;7;6569090;Presupuesto institucional total del pliego;"ANEXO-7-2-2:228; ANEXO-8-1:113,173; ANEXO-8-2:35,164,277"
+Puno;211207;MUNICIPALIDAD DISTRITAL DE SAN JUAN DEL ORO;Gobierno local;;San Juan Del Oro;7, 8;6;3602085;Presupuesto institucional total del pliego;"ANEXO-7-2-2:228; ANEXO-8-1:47,113,173,195; ANEXO-8-2:35,164,277"
+Puno;211208;MUNICIPALIDAD DISTRITAL DE YANAHUAYA;Gobierno local;;Yanahuaya;7, 8;6;2862897;Presupuesto institucional total del pliego;"ANEXO-7-2-2:228-229; ANEXO-8-1:113,173; ANEXO-8-2:35,164,226,277"
+Puno;211209;MUNICIPALIDAD DISTRITAL DE ALTO INAMBARI;Gobierno local;;Alto Inambari;7, 8;7;10917465;Presupuesto institucional total del pliego;"ANEXO-7-2-2:229; ANEXO-8-1:113,173; ANEXO-8-2:35,164,226,277"
+Puno;211210;MUNICIPALIDAD DISTRITAL DE SAN PEDRO DE PUTINA PUNCO;Gobierno local;;San Pedro De Putina Punco;7, 8;7;14991432;Presupuesto institucional total del pliego;"ANEXO-7-2-2:229; ANEXO-8-1:24,113,173,188,195; ANEXO-8-2:35,164,226,277"
+Puno;211301;MUNICIPALIDAD PROVINCIAL DE YUNGUYO;Gobierno local;;Yunguyo;7, 8;15;26576242;Presupuesto institucional total del pliego;"ANEXO-7-2-2:229; ANEXO-8-1:34,113,173,188; ANEXO-8-2:35,164,277"
+Puno;211302;MUNICIPALIDAD DISTRITAL DE ANAPIA;Gobierno local;;Anapia;7, 8;5;1564159;Presupuesto institucional total del pliego;"ANEXO-7-2-2:230; ANEXO-8-1:113,174,188,195; ANEXO-8-2:35,164,277"
+Puno;211303;MUNICIPALIDAD DISTRITAL DE COPAN';Gobierno local;;Copan';7, 8;7;4930784;Presupuesto institucional total del pliego;"ANEXO-7-2-2:230; ANEXO-8-1:113,174; ANEXO-8-2:35,164,277"
+Puno;211304;MUNICIPALIDAD DISTRITAL DE CUTURAPI;Gobierno local;;Cuturapi;7, 8;6;1593793;Presupuesto institucional total del pliego;"ANEXO-7-2-2:230; ANEXO-8-1:113,174; ANEXO-8-2:35,164,277"
+Puno;211305;MUNICIPALIDAD DISTRITAL DE OLLARAYA;Gobierno local;;Ollaraya;7, 8;7;2447462;Presupuesto institucional total del pliego;"ANEXO-7-2-2:230; ANEXO-8-1:24,113,174; ANEXO-8-2:35,164,277"
+Puno;211306;MUNICIPALIDAD DISTRITAL DE TINICACHI;Gobierno local;;Tinicachi;7, 8;6;1324965;Presupuesto institucional total del pliego;"ANEXO-7-2-2:231; ANEXO-8-1:113,174; ANEXO-8-2:35,164,277"
+Puno;211307;MUNICIPALIDAD DISTRITAL DE UNICACHI;Gobierno local;;Unicachi;7, 8;6;1575204;Presupuesto institucional total del pliego;"ANEXO-7-2-2:231; ANEXO-8-1:113,174; ANEXO-8-2:35,164,277"
+Tacna;460;GOBIERNO REGIONAL DEL DEPARTAMENTO DE TACNA;Gobierno regional;;;6, 8;358;986582046;Presupuesto institucional total del pliego;"ANEXO-6-2:154-170; ANEXO-8-1:6,27,37,52,56,237,267,269,306; ANEXO-8-2:59,118,216,263,280,284,286,289,304"
+Tacna;005;M. DEL AMBIENTE;Gobierno nacional;;;5;3;29080216;Partidas localizadas en Tacna;ANEXO-5-1:44
+Tacna;010;M. DE EDUCACION;Gobierno nacional;;;5;2;7561406;Partidas localizadas en Tacna;ANEXO-5-1:97,105
+Tacna;011;M. DE SALUD;Gobierno nacional;;;5;2;203505;Partidas localizadas en Tacna;ANEXO-5-2:121-122
+Tacna;013;MINISTERIO DE DESARROLLO AGRARIO Y RIEGO;Gobierno nacional;;;5;1;883542;Partidas localizadas en Tacna;ANEXO-5-3:12
+Tacna;016;M. DE ENERGIA Y MINAS;Gobierno nacional;;;5;2;5026360;Partidas localizadas en Tacna;ANEXO-5-3:30,35
+Tacna;022;MINISTERIO PUBLICO;Gobierno nacional;;;5;1;16672438;Partidas localizadas en Tacna;ANEXO-5-3:46
+Tacna;035;MINISTERIO DE COMERCIO EXTERIOR Y TURISMO;Gobierno nacional;;;5;1;2757;Partidas localizadas en Tacna;ANEXO-5-3:69
+Tacna;036;MINISTERIO DE TRANSPORTES Y COMUNICACIONES;Gobierno nacional;;;5;6;128835265;Partidas localizadas en Tacna;ANEXO-5-3:74,76,80-81
+Tacna;037;MINISTERIO DE VIVIENDA, CONSTRUCCION Y SANEAMIENTO;Gobierno nacional;;;5;2;1197662;Partidas localizadas en Tacna;ANEXO-5-3:92,112
+Tacna;067;SUPERINTENDENCIA NACIONAL DE LOS REGISTROS PUBLICOS;Gobierno nacional;;;5;4;876957;Partidas localizadas en Tacna;ANEXO-5-1:63
+Tacna;163;INSTITUTO NACIONAL DE INNOVACION AGRARIA;Gobierno nacional;;;5;1;18000000;Partidas localizadas en Tacna;ANEXO-5-3:23
+Tacna;243;AUTORIDAD NACIONAL DE SANIDAD E INOCUIDAD EN PESCA Y ACUICULTURA - SANIPES;Gobierno nacional;;;5;1;4709423;Partidas localizadas en Tacna;ANEXO-5-3:132
+Tacna;531;U.N. JORGE BASADRE GROHMANN;Gobierno nacional;;;5;56;176845803;Presupuesto institucional total del pliego;ANEXO-5-2:20-22
+Tacna;230101;MUNICIPALIDAD PROVINCIAL DE TACNA;Gobierno local;;Tacna;7, 8;15;243846306;Presupuesto institucional total del pliego;"ANEXO-7-2-2:253; ANEXO-8-1:34,116,176,261; ANEXO-8-2:37,277"
+Tacna;230102;MUNICIPALIDAD DISTRITAL DE ALTO DE LA ALIANZA;Gobierno local;;Alto De La Alianza;7, 8;10;62915565;Presupuesto institucional total del pliego;"ANEXO-7-2-2:253-254; ANEXO-8-1:24,116,176; ANEXO-8-2:37,63,166,277,315"
+Tacna;230103;MUNICIPALIDAD DISTRITAL DE CALANA;Gobierno local;;Galana;7, 8;10;8694914;Presupuesto institucional total del pliego;"ANEXO-7-2-2:254; ANEXO-8-1:116,176; ANEXO-8-2:37,64,166"
+Tacna;230104;MUNICIPALIDAD DISTRITAL DE CIUDAD NUEVA;Gobierno local;;Ciudad Nueva;7, 8;9;43052443;Presupuesto institucional total del pliego;"ANEXO-7-2-2:254; ANEXO-8-1:24,116,176; ANEXO-8-2:37,166,277,315"
+Tacna;230105;MUNICIPALIDAD DISTRITAL DE INCLAN;Gobierno local;;Inclan;7, 8;10;12260018;Presupuesto institucional total del pliego;"ANEXO-7-2-2:254; ANEXO-8-1:116,176,261; ANEXO-8-2:37,166,277,315"
+Tacna;230106;MUNICIPALIDAD DISTRITAL DE PACHIA;Gobierno local;;Pachia;7, 8;11;9085567;Presupuesto institucional total del pliego;"ANEXO-7-2-2:254-255; ANEXO-8-1:116,176; ANEXO-8-2:37,64,167"
+Tacna;230107;MUNICIPALIDAD DISTRITAL DE PALCA;Gobierno local;;Palca;7, 8;10;18638751;Presupuesto institucional total del pliego;"ANEXO-7-2-2:255; ANEXO-8-1:24,116,176,261; ANEXO-8-2:37,167"
+Tacna;230108;MUNICIPALIDAD DISTRITAL DE POCOLLAY;Gobierno local;;Pocollay;7, 8;9;32381597;Presupuesto institucional total del pliego;"ANEXO-7-2-2:255; ANEXO-8-1:116,176; ANEXO-8-2:38,315"
+Tacna;230109;MUNICIPALIDAD DISTRITAL DE SAMA;Gobierno local;;Sama;7, 8;11;19668964;Presupuesto institucional total del pliego;"ANEXO-7-2-2:255-256; ANEXO-8-1:116,176; ANEXO-8-2:38"
+Tacna;230110;MUNICIPALIDAD DISTRITAL DE CORONEL GREGORIO ALBARRACIN LANCHIPA;Gobierno local;;Coronel Gregorio Albarracin Lanchipa;7, 8;12;218117233;Presupuesto institucional total del pliego;"ANEXO-7-2-2:256; ANEXO-8-1:116,176; ANEXO-8-2:38,64,277,315"
+Tacna;230111;MUNICIPALIDAD DISTRITAL DE LA YARADA LOS PALOS;Gobierno local;;La Yarada Los Palos;7, 8;7;37771651;Presupuesto institucional total del pliego;"ANEXO-7-2-2:256; ANEXO-8-1:116,176; ANEXO-8-2:38,167,227"
+Tacna;230201;MUNICIPALIDAD PROVINCIAL DE CANDARAVE;Gobierno local;;Candarave;7, 8;11;9691694;Presupuesto institucional total del pliego;"ANEXO-7-2-2:256; ANEXO-8-1:34,116,176,248; ANEXO-8-2:38,167"
+Tacna;230202;MUNICIPALIDAD DISTRITAL DE CAIRANI;Gobierno local;;Cairani;7, 8;9;2401470;Presupuesto institucional total del pliego;"ANEXO-7-2-2:257; ANEXO-8-1:116,176,249; ANEXO-8-2:38,167"
+Tacna;230203;MUNICIPALIDAD DISTRITAL DE CAMILACA;Gobierno local;;Camilaca;7, 8;7;5210672;Presupuesto institucional total del pliego;"ANEXO-7-2-2:257; ANEXO-8-1:116,176,249; ANEXO-8-2:38,167"
+Tacna;230204;MUNICIPALIDAD DISTRITAL DE CURIBAYA;Gobierno local;;Curibaya;7, 8;7;3237864;Presupuesto institucional total del pliego;"ANEXO-7-2-2:257; ANEXO-8-1:116,249"
+Tacna;230205;MUNICIPALIDAD DISTRITAL DE HUANUARA;Gobierno local;;Huanuara;7, 8;7;2223278;Presupuesto institucional total del pliego;"ANEXO-7-2-2:257; ANEXO-8-1:176; ANEXO-8-2:167"
+Tacna;230206;MUNICIPALIDAD DISTRITAL DE QUILAHUANI;Gobierno local;;Quilahuani;7, 8;10;3366370;Presupuesto institucional total del pliego;"ANEXO-7-2-2:258; ANEXO-8-1:116,176,249; ANEXO-8-2:38,167"
+Tacna;230301;MUNICIPALIDAD PROVINCIAL DE JORGE BASADRE -LOCUMBA;Gobierno local;;Jorge Basadre;7, 8;13;111516787;Presupuesto institucional total del pliego;"ANEXO-7-2-2:258; ANEXO-8-1:34,116,176,249; ANEXO-8-2:167,227,277"
+Tacna;230302;MUNICIPALIDAD DISTRITAL DE ILABAYA;Gobierno local;;Ilabaya;7, 8;10;234843303;Presupuesto institucional total del pliego;"ANEXO-7-2-2:258; ANEXO-8-1:116,261; ANEXO-8-2:38,167,227"
+Tacna;230303;MUNICIPALIDAD DISTRITAL DE ITE;Gobierno local;;Ite;7, 8;9;85466834;Presupuesto institucional total del pliego;"ANEXO-7-2-2:258-259; ANEXO-8-1:24,116,176,195,249,261,263; ANEXO-8-2:38,64,167,227,230,277,294"
+Tacna;230401;MUNICIPALIDAD PROVINCIAL DE TARATA;Gobierno local;;Tarata;7, 8;13;7918264;Presupuesto institucional total del pliego;"ANEXO-7-2-2:259; ANEXO-8-1:34,116,177,188,195; ANEXO-8-2:38,167"
+Tacna;230402;MUNICIPALIDAD DISTRITAL DE CHUCATAMANI;Gobierno local;;Chucatamani;7, 8;6;2129753;Presupuesto institucional total del pliego;"ANEXO-7-2-2:259; ANEXO-8-1:177,196,249; ANEXO-8-2:38,167"
+Tacna;230403;MUNICIPALIDAD DISTRITAL DE ESTIQUE;Gobierno local;;Estique;7, 8;6;1604634;Presupuesto institucional total del pliego;"ANEXO-7-2-2:259-260; ANEXO-8-1:116,177,249; ANEXO-8-2:38,167"
+Tacna;230404;MUNICIPALIDAD DISTRITAL DE ESTIQUE-PAMPA;Gobierno local;;Estique;7, 8;6;1522550;Presupuesto institucional total del pliego;"ANEXO-7-2-2:260; ANEXO-8-1:116,177,249; ANEXO-8-2:38,167"
+Tacna;230405;MUNICIPALIDAD DISTRITAL DE SITAJARA;Gobierno local;;Sitajara;7, 8;6;1766021;Presupuesto institucional total del pliego;"ANEXO-7-2-2:260; ANEXO-8-1:116,177,249; ANEXO-8-2:38,167"
+Tacna;230406;MUNICIPALIDAD DISTRITAL DE SUSAPAYA;Gobierno local;;Susapaya;7, 8;7;2337455;Presupuesto institucional total del pliego;"ANEXO-7-2-2:260; ANEXO-8-1:116,177,249; ANEXO-8-2:38,167"
+Tacna;230407;MUNICIPALIDAD DISTRITAL DE TARUCACHI;Gobierno local;;Tarucachi;7, 8;5;2110739;Presupuesto institucional total del pliego;"ANEXO-7-2-2:260-261; ANEXO-8-1:116,177; ANEXO-8-2:38,64,167"
+Tacna;230408;MUNICIPALIDAD DISTRITAL DE TICACO;Gobierno local;;Ticaco;7, 8;6;3070847;Presupuesto institucional total del pliego;"ANEXO-7-2-2:261; ANEXO-8-1:177; ANEXO-8-2:167"

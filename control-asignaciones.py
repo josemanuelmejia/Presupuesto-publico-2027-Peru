@@ -2,8 +2,9 @@
 """Control de integridad de una base de asignaciones presupuestarias.
 
 Uso:  python3 control-asignaciones.py archivo.csv [--ref ref4.json]
+                                        [--catalogo catalogo-pliegos-2027.csv]
 
-Comprueba cuatro propiedades. Devuelve código de salida 1 si alguna falla,
+Comprueba cinco propiedades. Devuelve código de salida 1 si alguna falla,
 para poder encadenarlo en un proceso automático.
 
   1. Partición por nivel de gobierno. Los anexos 5, 6 y 7 cubren conjuntos
@@ -14,7 +15,12 @@ para poder encadenarlo en un proceso automático.
      reparte dinero del anexo 5. Ninguno puede exceder, en un pliego dado,
      el total que ese pliego tiene en su anexo de origen.
   3. Ausencia de filas idénticas repetidas dentro de un mismo anexo.
-  4. Cierre por pliego contra el total impreso, cuando hay referencia.
+  4. Cierre por pliego contra el total impreso, cuando hay referencia. El
+     total del anexo 4 se acepta solo si sus propias fuentes lo suman; cuando
+     el reconocimiento óptico dañó un dígito del total, manda la suma de
+     fuentes.
+  5. Correspondencia con el catálogo, si se indica: el monto de cada pliego en
+     el catálogo debe ser la suma de sus filas de base en la base de datos.
 """
 import csv, sys, json, itertools
 from collections import defaultdict
@@ -28,7 +34,7 @@ def cargar(ruta):
         f['_m'] = int(f['monto_soles']) if f.get('monto_soles') not in ('', None) else None
     return filas
 
-def control(filas, ref=None):
+def control(filas, ref=None, catalogo=None):
     fallas = []
 
     # 1. partición por nivel de gobierno
@@ -117,6 +123,25 @@ def control(filas, ref=None):
         print(f'\nAviso: {len(ileg)} partidas con importe ilegible en el PDF, '
               f'conservadas con el monto vacío')
 
+    # 5. correspondencia con el catálogo
+    if catalogo:
+        print('\n5. Correspondencia con el catálogo')
+        dep = {f.get('departamento', '') for f in filas} - {''}
+        n = mal = 0
+        with open(catalogo, encoding='utf-8-sig') as fh:
+            for r in csv.DictReader(fh, delimiter=';'):
+                if dep and r.get('departamento') not in dep:
+                    continue
+                n += 1
+                esperado = base.get(r['codigo_pliego'], 0)
+                if int(r['monto_asignado_soles']) != esperado:
+                    mal += 1
+                    print(f"   {r['codigo_pliego']}: catálogo {int(r['monto_asignado_soles']):,} "
+                          f"frente a {esperado:,}")
+        print(f'   pliegos contrastados: {n} | discrepancias: {mal}')
+        if mal:
+            fallas.append(f'{mal} pliegos del catálogo no cuadran con la base')
+
     print('\n' + ('RESULTADO: sin observaciones' if not fallas else 'RESULTADO: observaciones'))
     for f in fallas:
         print('   - ' + f)
@@ -126,7 +151,9 @@ if __name__ == '__main__':
     if len(sys.argv) < 2:
         print(__doc__)
         sys.exit(2)
-    ref = None
+    ref = catalogo = None
     if '--ref' in sys.argv:
         ref = json.load(open(sys.argv[sys.argv.index('--ref') + 1]))
-    sys.exit(1 if control(cargar(sys.argv[1]), ref) else 0)
+    if '--catalogo' in sys.argv:
+        catalogo = sys.argv[sys.argv.index('--catalogo') + 1]
+    sys.exit(1 if control(cargar(sys.argv[1]), ref, catalogo) else 0)

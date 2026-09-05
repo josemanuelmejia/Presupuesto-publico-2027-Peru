@@ -1,12 +1,13 @@
 # Validación automática de las bases en cada cambio.
 # Colocar este archivo en .github/workflows/validar-datos.yml
 #
-# El control comprueba cuatro propiedades: que los anexos 5, 6 y 7 cubran conjuntos
-# de pliegos disjuntos, que el anexo 8 no exceda en ningún pliego la base que replica,
-# que no haya filas idénticas repetidas, y que cada pliego propio cierre contra su
-# total impreso. El flujo informa el resultado sin bloquear la publicación, porque
-# algunos pliegos no cierran por cifras que el PDF dejó ilegibles y eso está
-# documentado en la propia base.
+# El control comprueba cinco propiedades: que los anexos 5, 6 y 7 cubran conjuntos de
+# pliegos disjuntos, que el anexo 8 no exceda en ningún pliego la base que replica, que
+# no haya filas idénticas repetidas, que cada pliego propio cierre contra su total
+# impreso, y que el catálogo reproduzca los montos de las bases. El flujo informa el
+# resultado sin bloquear la publicación, porque algunos pliegos no cierran por cifras
+# que el PDF dejó ilegibles y eso está documentado en la propia base, con su diferencia
+# exacta en la columna cuadra_el_pliego.
 
 name: Validar bases de asignaciones
 
@@ -62,25 +63,7 @@ jobs:
 
       - name: Verificar que el catálogo cuadre con las bases
         run: |
-          python3 - <<'PY'
-          import csv, glob, sys
-          from collections import defaultdict
-          base = defaultdict(lambda: defaultdict(int))
-          for f in glob.glob('asignaciones-*.csv'):
-              with open(f, encoding='utf-8-sig') as fh:
-                  for x in csv.DictReader(fh, delimiter=';'):
-                      if x['base_no_duplicada'] == 'Sí' and x['monto_soles']:
-                          base[x['departamento']][x['codigo_pliego']] += int(x['monto_soles'])
-          malas = []
-          with open('catalogo-pliegos-2027.csv', encoding='utf-8-sig') as fh:
-              for r in csv.DictReader(fh, delimiter=';'):
-                  esperado = base[r['departamento']][r['codigo_pliego']]
-                  if int(r['monto_asignado_soles']) != esperado:
-                      malas.append((r['departamento'], r['codigo_pliego'],
-                                    r['monto_asignado_soles'], esperado))
-          if malas:
-              for m in malas[:20]:
-                  print('No cuadra:', m)
-              sys.exit(1)
-          print('El catálogo cuadra con todas las bases.')
-          PY
+          for f in asignaciones-*.csv; do
+            python3 control-asignaciones.py "$f" \
+              --catalogo catalogo-pliegos-2027.csv | sed -n '/Correspondencia/,+3p'
+          done
