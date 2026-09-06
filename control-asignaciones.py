@@ -27,9 +27,15 @@ from collections import defaultdict
 
 BASE = 'Sí'          # valor de base_no_duplicada en las filas que suman
 
+def separador(ruta):
+    """Detecta el separador por el encabezado: tabulación, punto y coma o coma."""
+    with open(ruta, encoding='utf-8-sig') as fh:
+        cab = fh.readline()
+    return max('\t;,', key=cab.count)
+
 def cargar(ruta):
     with open(ruta, encoding='utf-8-sig') as fh:
-        filas = list(csv.DictReader(fh, delimiter=';'))
+        filas = list(csv.DictReader(fh, delimiter=separador(ruta)))
     for f in filas:
         f['_m'] = int(f['monto_soles']) if f.get('monto_soles') not in ('', None) else None
     return filas
@@ -129,7 +135,7 @@ def control(filas, ref=None, catalogo=None):
         dep = {f.get('departamento', '') for f in filas} - {''}
         n = mal = 0
         with open(catalogo, encoding='utf-8-sig') as fh:
-            for r in csv.DictReader(fh, delimiter=';'):
+            for r in csv.DictReader(fh, delimiter=separador(catalogo)):
                 if dep and r.get('departamento') not in dep:
                     continue
                 n += 1

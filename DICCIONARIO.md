@@ -5,9 +5,14 @@
 `asignaciones-tacna-2027.csv`, `asignaciones-moquegua-2027.csv`,
 `asignaciones-puno-2027.csv`, `asignaciones-arequipa-2027.csv`
 
-Codificación UTF-8 con marca de orden de bytes, separador de punto y coma. Las cuatro
-comparten las mismas 25 variables en el mismo orden, de modo que pueden concatenarse
-directamente. Cada caso es una asignación presupuestaria elemental: ningún agregado ni
+Codificación UTF-8 con marca de orden de bytes, separador de coma. Ningún valor contiene
+comas ni punto y coma —ambos se sustituyen por espacio al escribir—, de modo que el
+archivo no necesita comillas de escape. La contrapartida es que las denominaciones pierden
+las comas del original: donde el proyecto de ley dice «en las regiones Puno, Moquegua y
+Tacna», el archivo dice «en las regiones Puno Moquegua y Tacna».
+
+Las cuatro bases comparten las mismas 25 variables en el mismo orden, de modo que pueden
+concatenarse directamente. Cada caso es una asignación presupuestaria elemental: ningún agregado ni
 total del proyecto de ley entra en la base.
 
 | Variable | Contenido | Valores o formato |
@@ -29,11 +34,11 @@ total del proyecto de ley entra en la base.
 | `codigo_partida` | Código de la partida | Siete dígitos iniciados en 2, 3 o 5; genérica del gasto; o vacío |
 | `tipo_partida` | Naturaleza de la asignación | Actividad, proyecto de inversión, producto sin actividades, genérica del gasto, asignación por programa presupuestal, subvención |
 | `concepto` | Denominación de la partida | Texto |
-| `fuente_financiamiento` | Fuente, donde el anexo la desagrega | Cinco valores; solo en el anexo 7 |
+| `fuente_financiamiento` | Fuente, donde el anexo la desagrega | Cinco valores; en el anexo 7 y en las subvenciones del anexo A |
 | `monto_soles` | Monto asignado | Entero sin separadores; vacío si el PDF lo dejó ilegible |
 | `sector` | Clasificación funcional del gasto | Educación, salud, saneamiento, transporte y otros dieciséis valores |
 | `alcance_territorial` | Dónde se ejecuta la obra o el servicio | Localizada en el departamento; multidepartamental |
-| `base_no_duplicada` | Si la fila puede sumarse con las demás | Sí; No, replica los anexos 6 y 7 |
+| `base_no_duplicada` | Si la fila puede sumarse con las demás | Sí; No replica los anexos 6 y 7; No la subvención está dentro del pliego que la otorga |
 | `nota` | Incidencia de lectura y su tratamiento | Texto; vacío en la mayoría |
 | `cuadra_el_pliego` | Si el pliego cierra contra su total impreso | Sí, No, No aplica |
 | `diferencia_del_pliego` | Diferencia en soles cuando no cierra | Entero con signo |
@@ -49,16 +54,20 @@ total del proyecto de ley entra en la base.
   y no una falla de la clasificación.
 - Es un proyecto de ley: las cifras cambian con el debate parlamentario y con la
   autógrafa.
+- Una subvención del anexo A duplica solo si las partidas del pliego que la otorga están en
+  esa base. Si ese pliego no aporta partidas al departamento, la fila cuenta como base. La
+  regla se resuelve fila por fila y queda declarada en `base_no_duplicada`.
 - Los pliegos que no cierran contra su total impreso llevan `cuadra_el_pliego = No` y su
-  diferencia exacta. Son seis de 276 y se concentran en Puno y Arequipa: cuatro por
+  diferencia exacta. Son seis de 277 y se concentran en Puno y Arequipa: cuatro por
   atribución cruzada entre distritos vecinos y dos por dígitos que el PDF dejó ilegibles.
 - `monto_soles` queda vacío cuando el reconocimiento óptico no permitió leer la cifra y no
   fue posible recuperarla por diferencia. La columna `nota` explica el caso.
 
 ## Catálogo de pliegos
 
-`catalogo-pliegos-2027.csv`. Una fila por pliego, derivada de las bases: 340 pliegos de
-las cuatro regiones, con una base conjunta de S/ 18 410 272 218. La clave es el par de `departamento` y `codigo_pliego`.
+`catalogo-pliegos-2027.csv`. Una fila por pliego, derivada de las bases: 341 pliegos de
+las cuatro regiones, con una base conjunta de S/ 18 410 276 218. El separador y las reglas
+de escritura son los mismos que en las bases. La clave es el par de `departamento` y `codigo_pliego`.
 
 | Variable | Contenido |
 |---|---|

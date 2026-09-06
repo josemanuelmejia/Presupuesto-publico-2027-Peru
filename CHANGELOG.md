@@ -4,6 +4,23 @@ Las versiones siguen el esquema `AÑO.N`, donde N se incrementa con cada publica
 Cada entrada indica el estado de cierre de los pliegos, que es el control que decide si
 una base puede publicarse.
 
+## 2027.6 — Formato de los archivos y pliego de las subvenciones
+
+- Los archivos pasan a separarse por coma. Ningún valor contiene comas ni punto y coma:
+  ambos se sustituyen por espacio al escribir, de modo que no hacen falta comillas de
+  escape y GitHub los renderiza sin error. Antes el separador era el punto y coma y el
+  visor, que asume coma, leía una sola columna en el encabezado y veinticuatro en las filas
+  de datos.
+- La contrapartida es que las denominaciones pierden las comas del original. Para citar
+  textualmente hay que ir al PDF, cuya página figura en cada fila.
+- Las subvenciones del anexo A registran ahora el pliego que las otorga y su fuente de
+  financiamiento, que el anexo declara y antes no se leían. Ninguna fila queda ya sin
+  código de pliego.
+- La marca de duplicación de esas subvenciones es condicional: una subvención duplica solo
+  si las partidas del pliego que la otorga están en esa base.
+- El script de control detecta el separador leyendo el encabezado, así que funciona con
+  coma, punto y coma o tabulación.
+
 ## 2027.5 — Reconstrucción de la referencia y cierre del nivel nacional
 
 **Las cuatro bases fueron regeneradas.** Ninguna región se agrega en esta versión, pero
