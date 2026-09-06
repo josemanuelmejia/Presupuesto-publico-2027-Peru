@@ -50,7 +50,7 @@ jobs:
           esquemas = {}
           for f in sorted(glob.glob('asignaciones-*.csv')):
               with open(f, encoding='utf-8-sig') as fh:
-                  esquemas[f] = csv.DictReader(fh, delimiter=',').fieldnames
+                  esquemas[f] = csv.DictReader(fh, delimiter=';').fieldnames
           base = next(iter(esquemas.values()))
           malas = [f for f, c in esquemas.items() if c != base]
           for f, c in esquemas.items():

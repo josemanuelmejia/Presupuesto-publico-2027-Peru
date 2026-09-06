@@ -25,7 +25,12 @@ para poder encadenarlo en un proceso automático.
 import csv, sys, json, itertools
 from collections import defaultdict
 
-BASE = 'Sí'          # valor de base_no_duplicada en las filas que suman
+BASE = 'Sí'          # valor de base_no_duplicada, cuando la columna existe
+
+def es_base(f):
+    """Sin la columna de duplicación, todas las filas suman: la base ya no
+    contiene cortes transversales."""
+    return f.get('base_no_duplicada', BASE) == BASE
 
 def separador(ruta):
     """Detecta el separador por el encabezado: tabulación, punto y coma o coma."""
@@ -46,7 +51,7 @@ def control(filas, ref=None, catalogo=None):
     # 1. partición por nivel de gobierno
     pliegos = defaultdict(set)
     for f in filas:
-        if f['base_no_duplicada'] == BASE and f['codigo_pliego']:
+        if es_base(f) and f['codigo_pliego']:
             pliegos[f['anexo']].add(f['codigo_pliego'])
     print('1. Partición de pliegos entre los anexos de la base')
     for a in sorted(pliegos):
@@ -62,9 +67,9 @@ def control(filas, ref=None, catalogo=None):
     print('\n2. Contención de los cortes transversales')
     base = defaultdict(int)
     for f in filas:
-        if f['base_no_duplicada'] == BASE and f['_m'] is not None:
+        if es_base(f) and f['_m'] is not None:
             base[f['codigo_pliego']] += f['_m']
-    for anexo in sorted({f['anexo'] for f in filas if f['base_no_duplicada'] != BASE}):
+    for anexo in sorted({f['anexo'] for f in filas if not es_base(f)}):
         cruz = defaultdict(int)
         for f in filas:
             if f['anexo'] == anexo and f['_m'] is not None:
